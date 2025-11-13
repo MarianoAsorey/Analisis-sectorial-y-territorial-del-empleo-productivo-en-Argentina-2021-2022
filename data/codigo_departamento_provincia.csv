@@ -1,0 +1,528 @@
+provincia_id,in_departamentos,departamento,provincia
+30,30077,Nogoyá,Entre Rios
+70,70070,Pocito,San Juan
+2,2105,Comuna 15,CABA
+62,62021,Bariloche,Rio Negro
+6,6609,Pehuajó,Buenos Aires
+18,18021,Capital,Corrientes
+6,6007,Adolfo Alsina,Buenos Aires
+2,2028,Comuna 4,CABA
+6,6070,Baradero,Buenos Aires
+6,6749,San Fernando,Buenos Aires
+78,78049,Río Chico,Santa Cruz
+26,26035,Futaleufú,Chubut
+26,26021,Escalante,Chubut
+30,30028,Federación,Entre Rios
+2,2042,Comuna 6,CABA
+6,6581,Necochea,Buenos Aires
+6,6238,Dolores,Buenos Aires
+50,50084,Rivadavia,Mendoza
+14,14007,Calamuchita,Cordoba
+6,6854,25 de Mayo,Buenos Aires
+6,6112,Bragado,Buenos Aires
+2,2007,Comuna 1,CABA
+54,54077,Libertador General San Martín,Misiones
+6,6665,Ramallo,Buenos Aires
+6,6077,Arrecifes,Buenos Aires
+2,2098,Comuna 14,CABA
+6,6833,Tres Arroyos,Buenos Aires
+6,6840,Tres de Febrero,Buenos Aires
+6,6588,9 de Julio,Buenos Aires
+6,6134,Cañuelas,Buenos Aires
+46,46014,Capital,La Rioja
+6,6525,Marcos Paz,Buenos Aires
+14,14119,Río Segundo,Cordoba
+6,6277,Florentino Ameghino,Buenos Aires
+6,6392,General Villegas,Buenos Aires
+6,6505,Magdalena,Buenos Aires
+6,6357,General Pueyrredón,Buenos Aires
+6,6441,La Plata,Buenos Aires
+6,6547,Monte,Buenos Aires
+6,6168,Castelli,Buenos Aires
+6,6655,Punta Indio,Buenos Aires
+6,6301,General Belgrano,Buenos Aires
+6,6805,Tigre,Buenos Aires
+6,6466,Lezama,Buenos Aires
+6,6217,Chascomús,Buenos Aires
+6,6497,Luján,Buenos Aires
+2,2021,Comuna 3,CABA
+6,6042,Ayacucho,Buenos Aires
+6,6476,Lobería,Buenos Aires
+2,2084,Comuna 12,CABA
+62,62084,Valcheta,Rio Negro
+6,6742,San Cayetano,Buenos Aires
+6,6049,Azul,Buenos Aires
+6,6455,Las Flores,Buenos Aires
+6,6056,Bahía Blanca,Buenos Aires
+6,6819,Tornquist,Buenos Aires
+66,66112,Metán,Salta
+2,2063,Comuna 9,CABA
+62,62042,General Roca,Rio Negro
+58,58035,Confluencia,Neuquen
+78,78014,Deseado,Santa Cruz
+26,26007,Biedma,Chubut
+42,42007,Atreucó,La Pampa
+42,42077,Hucal,La Pampa
+18,18140,San Luis del Palmar,Corrientes
+18,18119,Paso de los Libres,Corrientes
+6,6861,Vicente López,Buenos Aires
+2,2014,Comuna 2,CABA
+6,6658,Quilmes,Buenos Aires
+6,6672,Rauch,Buenos Aires
+6,6568,Morón,Buenos Aires
+30,30088,San Salvador,Entre Rios
+10,10049,Capital,Catamarca
+70,70056,Jáchal,San Juan
+6,6434,Lanús,Buenos Aires
+2,2049,Comuna 7,CABA
+30,30098,Uruguay,Entre Rios
+30,30008,Colón,Entre Rios
+6,6427,La Matanza,Buenos Aires
+30,30021,Diamante,Entre Rios
+6,6035,Avellaneda,Buenos Aires
+6,6778,San Vicente,Buenos Aires
+82,82084,Rosario,Santa Fe
+30,30084,Paraná,Entre Rios
+14,14098,Río Cuarto,Cordoba
+6,6490,Lomas de Zamora,Buenos Aires
+50,50014,General Alvear,Mendoza
+58,58049,Huiliches,Neuquen
+6,6371,General San Martín,Buenos Aires
+82,82133,Vera,Santa Fe
+82,82070,Las Colonias,Santa Fe
+82,82021,Castellanos,Santa Fe
+82,82049,General Obligado,Santa Fe
+82,82063,La Capital,Santa Fe
+54,54098,San Ignacio,Misiones
+6,6518,Mar Chiquita,Buenos Aires
+14,14140,San Justo,Cordoba
+14,14021,Colón,Cordoba
+6,6595,Olavarría,Buenos Aires
+14,14014,Capital,Cordoba
+26,26077,Rawson,Chubut
+26,26084,Río Senguer,Chubut
+26,26070,Paso de Indios,Chubut
+14,14035,General Roca,Cordoba
+14,14084,Presidente Roque Sáenz Peña,Cordoba
+6,6700,Saavedra,Buenos Aires
+6,6602,Patagones,Buenos Aires
+14,14091,Punilla,Cordoba
+46,46042,Chilecito,La Rioja
+46,46112,Rosario Vera Peñaloza,La Rioja
+46,46070,General Juan Facundo Quiroga,La Rioja
+6,6196,Coronel Pringles,Buenos Aires
+6,6651,Puán,Buenos Aires
+6,6875,Villarino,Buenos Aires
+6,6203,Coronel Suárez,Buenos Aires
+82,82014,Caseros,Santa Fe
+70,70028,Capital,San Juan
+70,70042,Chimbas,San Juan
+70,70007,Albardón,San Juan
+90,90084,Capital,Tucuman
+14,14133,San Javier,Cordoba
+74,74028,Chacabuco,San Luis
+6,6756,San Isidro,Buenos Aires
+50,50098,San Martín,Mendoza
+50,50007,Capital,Mendoza
+50,50035,Junín,Mendoza
+50,50028,Guaymallén,Mendoza
+54,54028,Capital,Misiones
+18,18168,Santo Tomé,Corrientes
+50,50105,San Rafael,Mendoza
+50,50119,Tunuyán,Mendoza
+90,90042,Juan Bautista Alberdi,Tucuman
+90,90077,Río Chico,Tucuman
+90,90021,Chicligasta,Tucuman
+22,22140,San Fernando,Chaco
+30,30113,Villaguay,Entre Rios
+90,90014,Cruz Alta,Tucuman
+14,14056,Juárez Celman,Cordoba
+14,14182,Unión,Cordoba
+42,42154,Utracán,La Pampa
+42,42147,Trenel,La Pampa
+42,42098,Loventué,La Pampa
+42,42021,Capital,La Pampa
+66,66028,Capital,Salta
+6,6714,Salto,Buenos Aires
+6,6224,Chivilcoy,Buenos Aires
+6,6260,Esteban Echeverría,Buenos Aires
+66,66147,Rosario de Lerma,Salta
+38,38063,San Pedro,Jujuy
+38,38021,Dr. Manuel Belgrano,Jujuy
+38,38014,El Carmen,Jujuy
+38,38094,Tilcara,Jujuy
+2,2077,Comuna 11,CABA
+6,6763,San Nicolás,Buenos Aires
+2,2070,Comuna 10,CABA
+2,2035,Comuna 5,CABA
+78,78028,Lago Argentino,Santa Cruz
+2,2091,Comuna 13,CABA
+6,6560,Moreno,Buenos Aires
+6,6154,Carlos Tejedor,Buenos Aires
+6,6189,Coronel Dorrego,Buenos Aires
+6,6408,Hurlingham,Buenos Aires
+82,82042,General López,Santa Fe
+6,6126,Campana,Buenos Aires
+6,6147,Carlos Casares,Buenos Aires
+6,6322,General La Madrid,Buenos Aires
+6,6469,Lincoln,Buenos Aires
+6,6707,Saladillo,Buenos Aires
+50,50070,Maipú,Mendoza
+22,22014,Bermejo,Chaco
+2,2056,Comuna 8,CABA
+6,6063,Balcarce,Buenos Aires
+6,6882,Zárate,Buenos Aires
+6,6623,Pergamino,Buenos Aires
+18,18154,San Miguel,Corrientes
+30,30049,Gualeguay,Entre Rios
+14,14147,Santa María,Cordoba
+6,6638,Pilar,Buenos Aires
+14,14161,Tercero Arriba,Cordoba
+66,66007,Anta,Salta
+6,6385,General Viamonte,Buenos Aires
+18,18007,Bella Vista,Corrientes
+6,6105,Bolívar,Buenos Aires
+6,6287,General Alvear,Buenos Aires
+6,6770,San Pedro,Buenos Aires
+6,6868,Villa Gesell,Buenos Aires
+30,30015,Concordia,Entre Rios
+6,6364,General Rodríguez,Buenos Aires
+50,50021,Godoy Cruz,Mendoza
+6,6791,Tandil,Buenos Aires
+62,62014,Avellaneda,Rio Negro
+6,6252,Escobar,Buenos Aires
+6,6014,Adolfo Gonzales Chaves,Buenos Aires
+6,6329,General Las Heras,Buenos Aires
+18,18175,Sauce,Corrientes
+62,62028,Conesa,Rio Negro
+22,22112,O'Higgins,Chaco
+6,6798,Tapalqué,Buenos Aires
+58,58007,Aluminé,Neuquen
+6,6091,Berazategui,Buenos Aires
+6,6231,Daireaux,Buenos Aires
+6,6084,Benito Juárez,Buenos Aires
+50,50091,San Carlos,Mendoza
+18,18105,Mercedes,Corrientes
+58,58070,Los Lagos,Neuquen
+14,14063,Marcos Juárez,Cordoba
+18,18147,San Martín,Corrientes
+14,14126,San Alberto,Cordoba
+6,6760,San Miguel,Buenos Aires
+6,6462,Leandro N. Alem,Buenos Aires
+70,70084,Rivadavia,San Juan
+94,94007,Río Grande,Tierra Del Fuego
+6,6539,Merlo,Buenos Aires
+6,6399,Guaminí,Buenos Aires
+6,6343,General Paz,Buenos Aires
+6,6021,Alberti,Buenos Aires
+22,22070,Independencia,Chaco
+18,18070,Goya,Corrientes
+6,6315,General Juan Madariaga,Buenos Aires
+74,74042,Gobernador Dupuy,San Luis
+6,6175,Colón,Buenos Aires
+18,18098,Mburucuyá,Corrientes
+6,6693,Roque Pérez,Buenos Aires
+6,6826,Trenque Lauquen,Buenos Aires
+30,30056,Gualeguaychú,Entre Rios
+82,82028,Constitución,Santa Fe
+6,6028,Almirante Brown,Buenos Aires
+74,74021,Coronel Pringles,San Luis
+6,6119,Brandsen,Buenos Aires
+10,10021,Andalgalá,Catamarca
+6,6532,Mercedes,Buenos Aires
+18,18028,Concepción,Corrientes
+26,26098,Tehuelches,Chubut
+6,6161,Carmen de Areco,Buenos Aires
+38,38035,Ledesma,Jujuy
+6,6413,Junín,Buenos Aires
+6,6420,La Costa,Buenos Aires
+22,22084,Libertador General San Martín,Chaco
+6,6515,Malvinas Argentinas,Buenos Aires
+6,6679,Rivadavia,Buenos Aires
+6,6735,San Antonio de Areco,Buenos Aires
+6,6336,General Lavalle,Buenos Aires
+6,6308,General Guido,Buenos Aires
+6,6483,Lobos,Buenos Aires
+6,6410,Ituzaingó,Buenos Aires
+6,6644,Pinamar,Buenos Aires
+6,6274,Florencio Varela,Buenos Aires
+6,6280,General Alvarado,Buenos Aires
+14,14042,General San Martín,Cordoba
+6,6351,General Pinto,Buenos Aires
+42,42119,Quemú Quemú,La Pampa
+6,6412,José C. Paz,Buenos Aires
+74,74056,Juan Martín de Pueyrredón,San Luis
+6,6266,Exaltación de la Cruz,Buenos Aires
+42,42133,Realicó,La Pampa
+86,86049,Capital,Santiago Del Estero
+42,42070,Guatraché,La Pampa
+58,58056,Lácar,Neuquen
+94,94014,Ushuaia,Tierra Del Fuego
+58,58042,Chos Malal,Neuquen
+50,50063,Luján de Cuyo,Mendoza
+86,86091,Jiménez,Santiago Del Estero
+66,66049,General Güemes,Salta
+82,82091,San Cristóbal,Santa Fe
+78,78021,Güer Aike,Santa Cruz
+26,26014,Cushamen,Chubut
+6,6210,Chacabuco,Buenos Aires
+6,6140,Capitán Sarmiento,Buenos Aires
+42,42105,Maracó,La Pampa
+6,6270,Ezeiza,Buenos Aires
+6,6574,Navarro,Buenos Aires
+30,30063,Islas del Ibicuy,Entre Rios
+6,6728,San Andrés de Giles,Buenos Aires
+38,38042,Palpalá,Jujuy
+82,82007,Belgrano,Santa Fe
+50,50126,Tupungato,Mendoza
+14,14105,Río Primero,Cordoba
+22,22028,Chacabuco,Chaco
+6,6721,Salliqueló,Buenos Aires
+6,6406,Hipólito Yrigoyen,Buenos Aires
+6,6847,Tres Lomas,Buenos Aires
+14,14049,Ischilín,Cordoba
+66,66056,General José de San Martín,Salta
+30,30070,La Paz,Entre Rios
+62,62070,Pilcaniyeu,Rio Negro
+18,18035,Curuzú Cuatiá,Corrientes
+74,74014,Belgrano,San Luis
+6,6511,Maipú,Buenos Aires
+30,30035,Federal,Entre Rios
+58,58063,Loncopué,Neuquen
+30,30105,Victoria,Entre Rios
+86,86147,Río Hondo,Santiago Del Estero
+86,86035,Banda,Santiago Del Estero
+34,34014,Formosa,Formosa
+34,34049,Pilcomayo,Formosa
+26,26105,Telsen,Chubut
+6,6686,Rojas,Buenos Aires
+18,18049,Esquina,Corrientes
+14,14028,Cruz del Eje,Cordoba
+82,82119,San Lorenzo,Santa Fe
+42,42035,Conhelo,La Pampa
+18,18112,Monte Caseros,Corrientes
+70,70098,Santa Lucía,San Juan
+90,90119,Yerba Buena,Tucuman
+66,66098,La Viña,Salta
+58,58112,Zapala,Neuquen
+30,30042,Feliciano,Entre Rios
+62,62007,Adolfo Alsina,Rio Negro
+30,30091,Tala,Entre Rios
+70,70105,Sarmiento,San Juan
+10,10042,Capayán,Catamarca
+70,70035,Caucete,San Juan
+6,6098,Berisso,Buenos Aires
+6,6245,Ensenada,Buenos Aires
+6,6448,Laprida,Buenos Aires
+54,54007,Apóstoles,Misiones
+62,62077,San Antonio,Rio Negro
+6,6294,General Arenales,Buenos Aires
+66,66126,Orán,Salta
+54,54084,Montecarlo,Misiones
+54,54070,Leandro N. Alem,Misiones
+54,54014,Cainguás,Misiones
+34,34035,Patiño,Formosa
+22,22021,Comandante Fernández,Chaco
+6,6784,Suipacha,Buenos Aires
+18,18133,San Cosme,Corrientes
+18,18126,Saladas,Corrientes
+18,18042,Empedrado,Corrientes
+34,34056,Pirané,Formosa
+70,70049,Iglesia,San Juan
+6,6648,Presidente Perón,Buenos Aires
+6,6553,Monte Hermoso,Buenos Aires
+82,82126,San Martín,Santa Fe
+86,86098,Juan Felipe Ibarra,Santiago Del Estero
+86,86119,Moreno,Santiago Del Estero
+74,74035,General Pedernera,San Luis
+54,54063,Iguazú,Misiones
+82,82077,9 de Julio,Santa Fe
+6,6182,Coronel de Marina Leonardo Rosales,Buenos Aires
+54,54091,Oberá,Misiones
+54,54042,Eldorado,Misiones
+22,22154,Sargento Cabral,Chaco
+22,22098,Mayor Luis J. Fontana,Chaco
+86,86042,Belgrano,Santiago Del Estero
+42,42056,Chapaleufú,La Pampa
+6,6616,Pellegrini,Buenos Aires
+42,42126,Rancul,La Pampa
+82,82105,San Jerónimo,Santa Fe
+78,78035,Lago Buenos Aires,Santa Cruz
+22,22039,2 de Abril,Chaco
+82,82112,San Justo,Santa Fe
+14,14112,Río Seco,Cordoba
+82,82056,Iriondo,Santa Fe
+22,22105,9 de Julio,Chaco
+22,22007,Almirante Brown,Chaco
+70,70091,San Martín,San Juan
+70,70077,Rawson,San Juan
+54,54035,Concepción,Misiones
+54,54056,Guaraní,Misiones
+50,50049,Las Heras,Mendoza
+50,50077,Malargüe,Mendoza
+22,22147,San Lorenzo,Chaco
+6,6630,Pila,Buenos Aires
+22,22063,General Güemes,Chaco
+38,38112,Yavi,Jujuy
+42,42028,Catriló,La Pampa
+42,42042,Curacó,La Pampa
+78,78007,Corpen Aike,Santa Cruz
+34,34021,Laishi,Formosa
+62,62063,Pichi Mahuida,Rio Negro
+66,66042,Chicoana,Salta
+46,46035,Chamical,La Rioja
+26,26091,Sarmiento,Chubut
+50,50112,Santa Rosa,Mendoza
+90,90105,Tafí Viejo,Tucuman
+90,90098,Tafí del Valle,Tucuman
+38,38007,Cochinoca,Jujuy
+54,54049,General Manuel Belgrano,Misiones
+46,46063,General Belgrano,La Rioja
+46,46084,General Ortiz de Ocampo,La Rioja
+18,18084,Ituzaingó,Corrientes
+18,18063,General Paz,Corrientes
+18,18077,Itatí,Corrientes
+58,58084,Ñorquín,Neuquen
+18,18056,General Alvear,Corrientes
+18,18091,Lavalle,Corrientes
+18,18161,San Roque,Corrientes
+34,34042,Pilagás,Formosa
+90,90007,Burruyacú,Tucuman
+82,82098,San Javier,Santa Fe
+86,86154,Rivadavia,Santiago Del Estero
+22,22133,Quitilipi,Chaco
+90,90035,Graneros,Tucuman
+86,86112,Mitre,Santiago Del Estero
+10,10098,Santa Rosa,Catamarca
+10,10105,Tinogasta,Catamarca
+14,14175,Tulumba,Cordoba
+14,14168,Totoral,Cordoba
+14,14154,Sobremonte,Cordoba
+66,66063,Guachipas,Salta
+22,22036,12 de Octubre,Chaco
+90,90063,Lules,Tucuman
+82,82035,Garay,Santa Fe
+22,22168,25 de Mayo,Chaco
+22,22119,Presidencia de la Plaza,Chaco
+66,66140,Rosario de la Frontera,Salta
+22,22161,Tapenagá,Chaco
+86,86189,Silípica,Santiago Del Estero
+86,86133,Pellegrini,Santiago Del Estero
+66,66021,Cafayate,Salta
+86,86014,Alberdi,Santiago Del Estero
+86,86063,Choya,Santiago Del Estero
+86,86077,General Taboada,Santiago Del Estero
+74,74007,Ayacucho,San Luis
+86,86007,Aguirre,Santiago Del Estero
+74,74049,Junín,San Luis
+86,86140,Quebrachos,Santiago Del Estero
+46,46007,Arauco,La Rioja
+46,46028,General Felipe Varela,La Rioja
+70,70063,9 de Julio,San Juan
+70,70126,25 de Mayo,San Juan
+70,70021,Calingasta,San Juan
+70,70014,Angaco,San Juan
+50,50056,Lavalle,Mendoza
+46,46091,General San Martín,La Rioja
+86,86161,Robles,Santiago Del Estero
+50,50042,La Paz,Mendoza
+10,10084,Pomán,Catamarca
+10,10007,Ambato,Catamarca
+10,10035,Belén,Catamarca
+10,10091,Santa María,Catamarca
+90,90070,Monteros,Tucuman
+90,90091,Simoca,Tucuman
+86,86084,Guasayán,Santiago Del Estero
+90,90112,Trancas,Tucuman
+90,90028,Famaillá,Tucuman
+90,90056,Leales,Tucuman
+86,86028,Avellaneda,Santiago Del Estero
+86,86056,Copo,Santiago Del Estero
+66,66035,Cerrillos,Salta
+66,66084,La Candelaria,Salta
+58,58014,Añelo,Neuquen
+78,78042,Magallanes,Santa Cruz
+26,26028,Florentino Ameghino,Chubut
+26,26042,Gaiman,Chubut
+26,26063,Mártires,Chubut
+42,42112,Puelén,La Pampa
+42,42140,Toay,La Pampa
+42,42084,Lihuel Calel,La Pampa
+62,62091,25 de Mayo,Rio Negro
+22,22091,Maipú,Chaco
+22,22077,Libertad,Chaco
+22,22049,General Belgrano,Chaco
+54,54105,San Javier,Misiones
+62,62035,El Cuy,Rio Negro
+54,54021,Candelaria,Misiones
+54,54112,San Pedro,Misiones
+22,22126,1° de Mayo,Chaco
+26,26049,Gastre,Chubut
+58,58028,Collón Curá,Neuquen
+86,86070,Figueroa,Santiago Del Estero
+90,90049,La Cocha,Tucuman
+70,70119,Valle Fértil,San Juan
+10,10070,La Paz,Catamarca
+14,14070,Minas,Cordoba
+10,10112,Valle Viejo,Catamarca
+46,46049,Famatina,La Rioja
+54,54119,25 de Mayo,Misiones
+38,38056,San Antonio,Jujuy
+38,38098,Tumbaya,Jujuy
+38,38070,Santa Bárbara,Jujuy
+66,66133,Rivadavia,Salta
+22,22043,Fray Justo Santa María de Oro,Chaco
+6,6812,Tordillo,Buenos Aires
+86,86126,Ojo de Agua,Santiago Del Estero
+58,58091,Pehuenches,Neuquen
+38,38028,Humahuaca,Jujuy
+34,34028,Matacos,Formosa
+58,58105,Picunches,Neuquen
+66,66091,La Poma,Salta
+46,46119,San Blas de Los Sauces,La Rioja
+94,94011,Tolhuin,Tierra Del Fuego
+42,42014,Caleu Caleu,La Pampa
+66,66105,Los Andes,Salta
+86,86105,Loreto,Santiago Del Estero
+10,10077,Paclín,Catamarca
+66,66014,Cachi,Salta
+58,58077,Minas,Neuquen
+34,34007,Bermejo,Formosa
+58,58098,Picún Leufú,Neuquen
+66,66154,San Carlos,Salta
+66,66077,La Caldera,Salta
+22,22056,General Donovan,Chaco
+10,10028,Antofagasta de la Sierra,Catamarca
+38,38049,Rinconada,Jujuy
+38,38084,Susques,Jujuy
+38,38077,Santa Catalina,Jujuy
+10,10063,Fray Mamerto Esquiú,Catamarca
+86,86182,Sarmiento,Santiago Del Estero
+10,10056,El Alto,Catamarca
+42,42091,Limay Mahuida,La Pampa
+10,10014,Ancasti,Catamarca
+14,14077,Pocho,Cordoba
+86,86168,Salavina,Santiago Del Estero
+62,62049,9 de Julio,Rio Negro
+26,26056,Languiñeo,Chubut
+66,66119,Molinos,Salta
+42,42049,Chalileo,La Pampa
+42,42063,Chical Co,La Pampa
+66,66161,Santa Victoria,Salta
+38,38105,Valle Grande,Jujuy
+46,46098,Vinchina,La Rioja
+18,18014,Berón de Astrada,Corrientes
+58,58021,Catán Lil,Neuquen
+74,74063,Libertador General San Martín,San Luis
+46,46021,Castro Barros,La Rioja
+70,70133,Zonda,San Juan
+46,46126,Sanagasta,La Rioja
+86,86021,Atamisqui,Santiago Del Estero
+86,86175,San Martín,Santiago Del Estero
+62,62056,Ñorquinco,Rio Negro
+34,34063,Ramón Lista,Formosa
+46,46077,General Lamadrid,La Rioja
+70,70112,Ullum,San Juan
+46,46105,Independencia,La Rioja
+66,66070,Iruya,Salta
+46,46056,Ángel Vicente Peñaloza,La Rioja

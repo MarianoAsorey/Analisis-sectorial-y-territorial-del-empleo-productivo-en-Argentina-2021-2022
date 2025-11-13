@@ -1,0 +1,952 @@
+clae6,clae2,letra,clae6_desc,clae2_desc,letra_desc
+14211,1,A,"Cría de ganado equino, excepto la realizada en haras (Incluye equinos de trabajo, asnos, mulas, burdéganos)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11331,1,A,"Cultivo de hortalizas de hoja y de otras hortalizas frescas (Incluye acelga, apio, coles, espinaca, lechuga, perejil, radicheta, repollo, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14410,1,A,Cría de ganado ovino -excepto en cabañas y para la  producción de lana y leche-,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11211,1,A,Cultivo de soja,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+17010,1,A,"Caza y repoblación  de animales de caza (Incluye la caza de animales para obtener carne, pieles y cueros y la captura de animales vivos para zoológicos, animales de compañía, para investigación, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11400,1,A,Cultivo de tabaco,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12121,1,A,Cultivo de uva de mesa,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14720,1,A,Producción de pelos de ganado n.c.p.,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12110,1,A,Cultivo de vid para vinificar,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14520,1,A,Cría de ganado porcino realizado en cabañas,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14221,1,A,Cría de ganado equino realizada en haras (Incluye la producción de semen),"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12701,1,A,Cultivo de yerba mate,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12709,1,A,Cultivo de té y otras plantas cuyas hojas se utilizan para preparar infusiones,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+16291,1,A,"Servicios para el control de plagas, baños parasiticidas, etc.","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14121,1,A,Cría de ganado bovino realizada en cabañas (Incluye: ganado bubalino y la producción de semen),"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+13020,1,A,"Producción de otras formas de propagación de cultivos agrícolas (Incluye gajos, bulbos, estacas enraizadas o no, esquejes, plantines, etc.) ","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+16111,1,A,"Servicios de labranza, siembra, transplante  y  cuidados culturales","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14990,1,A,"Cría de animales y obtención de productos de origen animal, n.c.p. (Incluye ciervo, gato, gusano de seda, lombriz, pájaro, perro, rana, animales para experimentación, caracoles vivos, frescos, congelados y secos -excepto marinos-, cera de insectos excepto la de abeja, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12590,1,A,"Cultivo de plantas sacaríferas n.c.p. (Incluye remolacha azucarera, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14510,1,A,"Cría de ganado porcino, excepto la realizada en cabañas","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14440,1,A,Cría de ganado caprino realizada en cabañas,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14930,1,A,"Cría de animales pelíferos, pilíferos y plumíferos, excepto de las especies ganaderas (Incluye cría de visón, nutria, chinchilla, reptiles, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14114,1,A,Invernada  de ganado bovino excepto el engorde en corrales (Feed-Lot),"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+16113,1,A,"Servicios de pulverización, desinfección y fumigación aérea ","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14920,1,A,Cunicultura,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12800,1,A,Cultivo de especias y de plantas aromáticas y medicinales,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11130,1,A,Cultivo de pastos de uso forrajero,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14620,1,A,Producción de leche de oveja y de cabra,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11912,1,A,Cultivo de plantas ornamentales,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+16150,1,A,Servicios de procesamiento de semillas para su siembra (Incluye la selección de semillas),"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11990,1,A,Cultivos temporales ncp,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12311,1,A,Cultivo de manzana y pera,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12510,1,A,Cultivo de caña de azúcar,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+16130,1,A,"Servicios de contratistas de mano de obra agrícola (Incluye la poda de árboles, transplante, cosecha manual de citrus, algodón, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11341,1,A,"Cultivo de legumbres frescas (Incluye arveja, chaucha, haba, lupino, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12320,1,A,"Cultivo de frutas de carozo (Incluye cereza, ciruela, damasco, durazno, pelón, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14810,1,A,"Cría de aves de corral, excepto para la producción de huevos","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11310,1,A,"Cultivo de papa, batata y mandioca","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+16112,1,A,"Servicios de pulverización, desinfección y fumigación terrestre","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11111,1,A,Cultivo de arroz,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12410,1,A,"Cultivo de frutas tropicales y subtropicales (Incluye banana, ananá, mamón, palta, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11321,1,A,Cultivo de tomate,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11112,1,A,Cultivo de trigo,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+16190,1,A,"Servicios de apoyo agrícolas n.c.p (Incluye  explotación de sistemas de riego, injertos de plantas, construcción y plantación de almácigos, alquiler de colmenas, etc.), (No incluye mantenimiento de jardines, parques y cementerios: actividad 813000, planificación y diseño paisajista: actividad 711009)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+16119,1,A,"Servicios de maquinaria agrícola n.c.p., excepto los de cosecha mecánica (Incluye clasificado y/o tamañado, rastrillado, roturación de terreno, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11119,1,A,"Cultivo de cereales n.c.p., excepto los de uso forrajero (Incluye alforfón, cebada cervecera, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11291,1,A,Cultivo de girasol,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+17020,1,A,Servicios de apoyo para la caza,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+13012,1,A,"Producción de semillas varietales o autofecundadas de cereales, oleaginosas, y forrajeras ","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14710,1,A,Producción de lana y pelo de oveja y cabra (cruda),"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+16230,1,A,Servicios de esquila de animales,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+13013,1,A,"Producción de semillas de hortalizas y legumbres, flores y plantas ornamentales y árboles frutales ","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14610,1,A,Producción de leche bovina (Incluye la cría para la producción de leche de vaca y la producción de leche bubalina),"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11129,1,A,Cultivo de cereales de uso forrajero n.c.p.,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14115,1,A,Engorde en corrales (Feed-Lot),"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+16120,1,A,"Servicios de cosecha mecánica (Incluye la cosecha mecánica de granos, caña de azúcar, algodón, forrajes, el enfardado, enrollado, etc.) ","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12490,1,A,"Cultivo de frutas n.c.p. (Incluye kiwi, arándanos, mora, grosella, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14430,1,A,Cría de ganado caprino -excepto la realizada en cabañas y para producción de pelos y de leche-,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14910,1,A,"Apicultura (Incluye la producción de miel, jalea real, polen, propóleo, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+16292,1,A,Albergue y cuidado de  animales de terceros,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+16140,1,A,"Servicios de post cosecha (Incluye servicios de lavado de papas,  acondicionamiento, limpieza, etc, de granos antes de ir a los mercados primarios), (Excluye los servicios de procesamiento de semillas para su siembra)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+16299,1,A,Servicios de apoyo pecuarios n.c.p.,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12420,1,A,"Cultivo de frutas secas (Incluye almendra, avellana, castaña, nuez, pistacho, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14820,1,A,Producción de huevos,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+16220,1,A,"Servicios de contratistas de mano de obra pecuaria (Incluye arreo, castración de aves, pasturaje,  etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14113,1,A,"Cría de ganado bovino, excepto la realizada en cabañas y para la producción de leche (Incluye: ganado bubalino)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11509,1,A,"Cultivo de plantas para la obtención de fibras n.c.p. (Incluye abacá, cáñamo, formio, lino textil, maíz de Guinea, ramio, yute, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+16210,1,A,Inseminación artificial y servicios n.c.p. para mejorar la reproducción de los animales y el rendimiento de sus productos,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14420,1,A,Cría de ganado ovino realizada en cabañas,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12600,1,A,"Cultivo de frutos oleaginosos (Incluye el cultivo de olivo, coco, palma, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11299,1,A,"Cultivo de oleaginosas n.c.p. excepto soja y girasol (Incluye los cultivos de oleaginosas para aceites comestibles y/o uso industrial: cártamo, colza, jojoba, lino oleaginoso, maní, ricino, sésamo, tung, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12319,1,A,"Cultivo de frutas de pepita n.c.p. (Incluye membrillo, níspero, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11342,1,A,"Cultivo de legumbres secas (Incluye garbanzo, lenteja, poroto, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+14300,1,A,"Cría de camélidos (Incluye alpaca, guanaco, llama, vicuña)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+13011,1,A,Producción de semillas híbridas de cereales y oleaginosas,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11121,1,A,Cultivo de maíz,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11329,1,A,"Cultivo de bulbos, brotes, raíces y hortalizas de fruto n.c.p. (Incluye ají, ajo, alcaparra, berenjena, cebolla, calabaza, espárrago, frutilla, melón, pepino, pimiento, sandía, zanahoria, zapallo, zapallito, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11501,1,A,Cultivo de algodón,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+13019,1,A,Producción de semillas de cultivos agrícolas n.c.p.,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12900,1,A,Cultivos perennes n.c.p.,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+11911,1,A,Cultivo de flores,"Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+12200,1,A,"Cultivo de frutas cítricas (Incluye bergamota, lima, limón, mandarina, naranja, pomelo, kinoto, etc.)","Agricultura, ganadería, caza y servicios relacionados","AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+24020,2,A,"Servicios forestales excepto los servicios para la extracción de madera (Incluye protección contra incendios, evaluación de masas forestales en pie, estimación del valor de la madera, etc.)",Silvicultura y explotación forestal,"AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+21020,2,A,Repoblación y conservación de bosques nativos y zonas forestadas,Silvicultura y explotación forestal,"AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+22020,2,A,"Extracción de productos forestales de bosques nativos (Incluye tala de árboles, desbaste de troncos y producción de madera en bruto, leña, postes, la extracción de rodrigones, varas, varillas y la recolección de  gomas naturales, líquenes, musgos, resinas y de rosa mosqueta,etc)",Silvicultura y explotación forestal,"AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+22010,2,A,"Extracción de productos forestales de bosques cultivados (Incluye tala de árboles, desbaste de troncos y producción de madera en bruto, leña, postes)",Silvicultura y explotación forestal,"AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+24010,2,A,"Servicios forestales para la extracción de madera (Incluye tala de árboles, acarreo y transporte en el interior del bosque, servicios realizados por terceros, etc.)",Silvicultura y explotación forestal,"AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+21030,2,A,Explotación de viveros forestales (Incluye propagación de especies forestales),Silvicultura y explotación forestal,"AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+21010,2,A,Plantación de bosques,Silvicultura y explotación forestal,"AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+31130,3,A,"Recolección de organismos marinos excepto peces, crustáceos y moluscos (Incluye la recolección de algas marinas)",Pesca y acuicultura,"AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+31110,3,A,"Pesca de organismos marinos, excepto cuando es realizada en buques procesadores",Pesca y acuicultura,"AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+31200,3,A,Pesca continental: fluvial y lacustre,Pesca y acuicultura,"AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+32000,3,A,"Explotación de criaderos de peces, granjas piscícolas y otros frutos acuáticos  (acuicultura)",Pesca y acuicultura,"AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+31300,3,A,Servicios de apoyo para la pesca,Pesca y acuicultura,"AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+31120,3,A,Pesca y elaboración de productos marinos realizada a bordo de buques procesadores,Pesca y acuicultura,"AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA"
+52000,5,B,Extracción y aglomeración de lignito,Extracción de carbón y lignito,EXPLOTACION DE MINAS Y CANTERAS
+51000,5,B,"Extracción y aglomeración de carbón (Incluye la producción de hulla no aglomerada, antracita, carbón bituminoso no aglomerado, ovoides y combustibles sólidos análogos a base de hulla, etc.)",Extracción de carbón y lignito,EXPLOTACION DE MINAS Y CANTERAS
+62000,6,B,Extracción de gas natural (Incluye gas natural licuado y gaseoso),Extracción de petróleo crudo y gas natural,EXPLOTACION DE MINAS Y CANTERAS
+61000,6,B,"Extracción de petróleo crudo (Incluye arenas alquitraníferas, esquistos bituminosos o lutitas, aceites de petróleo y de minerales bituminosos, petróleo, etc.)",Extracción de petróleo crudo y gas natural,EXPLOTACION DE MINAS Y CANTERAS
+72100,7,B,Extracción de minerales y concentrados de uranio y torio,Extracción de minerales metálicos,EXPLOTACION DE MINAS Y CANTERAS
+71000,7,B,"Extracción de minerales de hierro (Incluye hematitas, limonitas, magnetitas, siderita, etc.)",Extracción de minerales metálicos,EXPLOTACION DE MINAS Y CANTERAS
+72910,7,B,Extracción de metales preciosos,Extracción de minerales metálicos,EXPLOTACION DE MINAS Y CANTERAS
+72990,7,B,"Extracción de minerales metalíferos no ferrosos n.c.p., excepto minerales de uranio y torio (Incluye aluminio, cobre, estaño, manganeso, níquel, plomo, volframio, antimonio, bismuto, cinc, molibdeno, titanio, circonio, niobio, tántalo, vanadio, cromo, cobalto)",Extracción de minerales metálicos,EXPLOTACION DE MINAS Y CANTERAS
+81100,8,B,"Extracción de rocas ornamentales (Incluye areniscas, cuarcita, dolomita, granito, mármol, piedra laja, pizarra, serpentina, etc.)",Extracción de otros minerales,EXPLOTACION DE MINAS Y CANTERAS
+89200,8,B,Extracción y aglomeración de turba (Incluye la producción de turba utilizada como corrector de suelos),Extracción de otros minerales,EXPLOTACION DE MINAS Y CANTERAS
+89300,8,B,Extracción de sal,Extracción de otros minerales,EXPLOTACION DE MINAS Y CANTERAS
+89120,8,B,"Extracción de minerales para la fabricación de productos químicos (Incluye azufre, boracita e hidroboracita, calcita, celestina, colemanita, fluorita, litio y sales de litio naturales, sulfato de aluminio, sulfato de hierro, sulfato de magnesio, sulfato de sodio, ocres,  tinkal, ulexita, asfaltita, laterita, etc.)",Extracción de otros minerales,EXPLOTACION DE MINAS Y CANTERAS
+81300,8,B,"Extracción de arenas, canto rodado y triturados pétreos (Incluye arena para construcción, arena silícea, otras arenas naturales, canto rodado, dolomita triturada, salto triturado, piedra partida  y  otros triturados pétreos, etc.)",Extracción de otros minerales,EXPLOTACION DE MINAS Y CANTERAS
+89110,8,B,"Extracción de minerales para la fabricación de abonos excepto turba (Incluye guano, silvita, silvinita y otras sales de potasio naturales, etc.)",Extracción de otros minerales,EXPLOTACION DE MINAS Y CANTERAS
+89900,8,B,"Explotación de minas y canteras n.c.p. (Incluye amianto, cuarzo, diatomita, piedra pómez, ágata, agua marina, amatista, cristal de roca, rodocrosita, topacio, corindón, feldespato, mica, zeolita, perlita, granulado volcánico, puzolana, toba, talco, vermiculita, tosca, grafito, etc.)",Extracción de otros minerales,EXPLOTACION DE MINAS Y CANTERAS
+81200,8,B,"Extracción de piedra caliza y yeso (Incluye caliza, castina, conchilla, riolita, yeso natural, anhidrita, etc.)",Extracción de otros minerales,EXPLOTACION DE MINAS Y CANTERAS
+81400,8,B,"Extracción de arcilla y caolín (Incluye andalucita, arcillas, bentonita, caolín, pirofilita, silimanita, mullita, tierra de chamota o de dinas, etc.)",Extracción de otros minerales,EXPLOTACION DE MINAS Y CANTERAS
+91000,9,B,Servicios de apoyo para la extracción de petróleo y gas natural,Actividades de apoyo al petróleo y la minería,EXPLOTACION DE MINAS Y CANTERAS
+99000,9,B,"Servicios de apoyo para la minería, excepto para la extracción de petróleo y gas natual",Actividades de apoyo al petróleo y la minería,EXPLOTACION DE MINAS Y CANTERAS
+101020,10,C,Producción y procesamiento de carne de aves,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+105090,10,C,"Elaboración de productos lácteos n.c.p. (Incluye la producción de caseínas, manteca, postres, etc., cuando no son obtenidos e forma integrada con la producción de leche)",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+104012,10,C,Elaboración de aceite de oliva,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+104013,10,C,Elaboración de aceites y grasas vegetales refinados (No incluye aceite de oliva -actividad 104012-),Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+106131,10,C,Elaboración de alimentos a base de cereales,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+102003,10,C,"Fabricación de aceites, grasas, harinas y productos a base de pescados ",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107911,10,C,"Tostado, torrado y molienda de café",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107301,10,C,Elaboración de cacao y chocolate,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107129,10,C,"Elaboración de productos de panadería n.c.p. (Incluye la elaboración de pan, facturas, churros, pre-pizzas, masas de hojaldre, masas fritas, tortas, tartas, etc), (No incluye la fabricación de sándwich 561040)",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+101099,10,C,"Matanza de animales n.c.p. y procesamiento de su carne, elaboración de subproductos cárnicos n.c.p. (Incluye producción de carne fresca, refrigerada o congelada de liebre, conejo, animales de caza, etc.)",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+103091,10,C,"Elaboración de hortalizas y legumbres deshidratadas o desecadas, preparación n.c.p. de hortalizas y legumbres (Incluye la elaboración de harina y escamas de papa, sémola de hortalizas y legumbres,  hortalizas y legumbres deshidratadas, etc.)",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107410,10,C,Elaboración de pastas alimentarias frescas,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+101030,10,C,Elaboración de fiambres y embutidos,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+104020,10,C,Elaboración de margarinas y grasas vegetales comestibles similares,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107920,10,C,Preparación de hojas de té,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107912,10,C,Elaboración y molienda de hierbas aromáticas y  especias,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107121,10,C,"Elaboración industrial de productos de panadería, excepto galletitas y bizcochos (Incluye la elaboración de productos de panadería frescos, congelados y secos)",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107500,10,C,"Elaboración de comidas preparadas para reventa (Incluye la elaboración de comidas preparadas para reventa en supermercados, kioscos, cafeterías, etc.)",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107110,10,C,Elaboración de galletitas y bizcochos,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107991,10,C,"Elaboración de extractos, jarabes y concentrados",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+103099,10,C,"Elaboración de frutas deshidratadas o desecadas, preparación n.c.p. de frutas",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+101011,10,C,Matanza de ganado bovino (Incluye búfalos),Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+101012,10,C,Procesamiento de carne de ganado bovino,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+109000,10,C,Servicios industriales para la elaboración de alimentos y bebidas,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107420,10,C,Elaboración de pastas alimentarias secas,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+108000,10,C,Elaboración de alimentos preparados para animales,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+103020,10,C,"Elaboración de jugos naturales y sus concentrados, de frutas, hortalizas y legumbres (No incluye la elaboración de jugos para diluir o en polvo llamados """"sintéticos"""" o de un contenido en jugos naturales inferior al 50% actividad 110492)",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+101040,10,C,"Matanza de ganado excepto el bovino y procesamiento de su carne (Incluye ganado ovino, porcino, equino, etc.) ",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+102002,10,C,Elaboración de pescados de ríos y lagunas y otros productos fluviales y lacustres,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107309,10,C,"Elaboración de productos de confitería n.c.p. (Incluye alfajores, caramelos, frutas confitadas, pastillas, gomas de mascar, etc.)",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+101013,10,C,Saladero y peladero de cueros de ganado bovino,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+106110,10,C,Molienda de trigo,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107200,10,C,Elaboración de azúcar,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+104011,10,C,Elaboración de aceites y grasas vegetales  sin refinar,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+106120,10,C,Preparación de arroz,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+102001,10,C,"Elaboración de pescados de mar, crustáceos y  productos marinos ",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107999,10,C,"Elaboración de productos alimenticios n.c.p. (Incluye la elaboración de polvos para preparar postres y gelatinas, levadura, productos para copetín, sopas, sal de mesa, mayonesa, mostaza, etc.)",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107992,10,C,Elaboración de vinagres,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+106139,10,C,"Preparación y molienda de legumbres y cereales n.c.p., excepto trigo y arroz y molienda húmeda de maíz",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+101091,10,C,Fabricación de aceites y grasas de origen animal,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+103011,10,C,"Preparación de conservas de frutas, hortalizas y legumbres",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+106200,10,C,"Elaboración de almidones y productos derivados del almidón, molienda húmeda de maíz (Incluye la elaboración de glucosa y gluten)",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+105020,10,C,Elaboración de quesos (Incluye la producción de suero),Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+105030,10,C,Elaboración industrial de helados,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+103012,10,C,"Elaboración y envasado de dulces, mermeladas y jaleas",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+107930,10,C,Elaboración de yerba mate,Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+103030,10,C,"Elaboración de frutas, hortalizas y legumbres congeladas",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+105010,10,C,"Elaboración de leches y productos lácteos deshidratados (Incluye la obtención de quesos, helados, manteca, postres lácteos, yogur y otros productos lácteos fermentados o coagulados cuando son obtenidos en forma integrada con la producción de leche)",Elaboración de productos alimenticios,INDUSTRIA MANUFACTURERA
+110300,11,C,"Elaboración de cerveza, bebidas malteadas y malta",Elaboración de bebidas,INDUSTRIA MANUFACTURERA
+110492,11,C,"Elaboración de bebidas no alcohólicas n.c.p. (Incluye los jugos para diluir o en polvo llamados """"sintéticos"""" o de un contenido en jugos naturales inferior al 50%), (No incluye a los jugos naturales y sus concentrados, de frutas, hortalizas y legumbres - actividad 103020)",Elaboración de bebidas,INDUSTRIA MANUFACTURERA
+110412,11,C,Fabricación de sodas,Elaboración de bebidas,INDUSTRIA MANUFACTURERA
+110420,11,C,"Elaboración de bebidas gaseosas, excepto soda",Elaboración de bebidas,INDUSTRIA MANUFACTURERA
+110211,11,C,Elaboración de mosto,Elaboración de bebidas,INDUSTRIA MANUFACTURERA
+110212,11,C,Elaboración de vinos (Incluye el fraccionamiento),Elaboración de bebidas,INDUSTRIA MANUFACTURERA
+110100,11,C,"Destilación, rectificación y mezcla de bebidas espiritosas",Elaboración de bebidas,INDUSTRIA MANUFACTURERA
+110290,11,C,Elaboración de sidra y otras bebidas alcohólicas fermentadas,Elaboración de bebidas,INDUSTRIA MANUFACTURERA
+110491,11,C,Elaboración de hielo,Elaboración de bebidas,INDUSTRIA MANUFACTURERA
+110411,11,C,Embotellado de aguas naturales y minerales,Elaboración de bebidas,INDUSTRIA MANUFACTURERA
+120099,12,C,Elaboración de productos de tabaco n.c.p.,Elaboración de productos de tabaco,INDUSTRIA MANUFACTURERA
+120091,12,C,Elaboración de cigarrillos,Elaboración de productos de tabaco,INDUSTRIA MANUFACTURERA
+120010,12,C,Preparación de hojas de tabaco,Elaboración de productos de tabaco,INDUSTRIA MANUFACTURERA
+139300,13,C,Fabricación de tapices y alfombras,Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+131110,13,C,"Preparación de fibras textiles vegetales, desmotado de algodón (Incluye la preparación de fibras de yute, ramio, cáñamo y lino)",Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+139204,13,C,Fabricación de bolsas de materiales textiles para productos a granel,Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+139209,13,C,"Fabricación de artículos confeccionados de materiales textiles n.c.p., excepto prendas de vestir ",Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+139203,13,C,Fabricación de artículos de lona y sucedáneos de lona,Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+131202,13,C,"Fabricación de tejidos (telas) planos de algodón y sus mezclas, incluye hilanderías y tejedurías integradas",Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+139201,13,C,"Fabricación de frazadas, mantas, ponchos, colchas, cobertores, etc.",Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+131300,13,C,Acabado de productos textiles,Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+131131,13,C,"Fabricación de hilados textiles de lana, pelos y sus mezclas",Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+131120,13,C,Preparación de fibras animales de uso textil,Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+131139,13,C,"Fabricación de hilados textiles n.c.p., excepto de lana  y de algodón",Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+139202,13,C,Fabricación de ropa de cama y mantelería,Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+139900,13,C,Fabricación de productos textiles n.c.p.,Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+131201,13,C,"Fabricación de tejidos (telas) planos de lana y sus mezclas, incluye hilanderías y tejedurías integradas",Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+139100,13,C,Fabricación de tejidos de punto,Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+139400,13,C,"Fabricación de cuerdas, cordeles, bramantes y redes",Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+131209,13,C,"Fabricación de tejidos (telas) planos de fibras textiles n.c.p., incluye hilanderías y tejedurías integradas",Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+131132,13,C,Fabricación de hilados textiles de algodón y sus mezclas,Elaboración de productos textiles,INDUSTRIA MANUFACTURERA
+143020,14,C,Fabricación de prendas de vestir y artículos similares de punto,Elaboración de prendas de vestir,INDUSTRIA MANUFACTURERA
+141199,14,C,"Confección de prendas de vestir n.c.p., excepto prendas de piel, cuero y de punto",Elaboración de prendas de vestir,INDUSTRIA MANUFACTURERA
+149000,14,C,"Servicios industriales para la industria confeccionista (Incluye procesos de planchado y acondicionamiento de prendas: teñido, gastado a la piedra (stone wash), impermeabilizado, lavaderos y secaderos industriales, etc.) ",Elaboración de prendas de vestir,INDUSTRIA MANUFACTURERA
+141140,14,C,Confección de prendas deportivas,Elaboración de prendas de vestir,INDUSTRIA MANUFACTURERA
+142000,14,C,"Terminación y teñido de pieles, fabricación de artículos de piel ",Elaboración de prendas de vestir,INDUSTRIA MANUFACTURERA
+141201,14,C,Fabricación de accesorios de vestir de cuero,Elaboración de prendas de vestir,INDUSTRIA MANUFACTURERA
+143010,14,C,Fabricación de medias,Elaboración de prendas de vestir,INDUSTRIA MANUFACTURERA
+141110,14,C,"Confección de ropa interior, prendas para dormir y para la playa",Elaboración de prendas de vestir,INDUSTRIA MANUFACTURERA
+141120,14,C,"Confección de ropa de trabajo, uniformes y guardapolvos ",Elaboración de prendas de vestir,INDUSTRIA MANUFACTURERA
+141130,14,C,Confección de prendas de vestir para bebés y niños,Elaboración de prendas de vestir,INDUSTRIA MANUFACTURERA
+141202,14,C,Confección de prendas de vestir de cuero,Elaboración de prendas de vestir,INDUSTRIA MANUFACTURERA
+141191,14,C,Fabricación de accesorios de vestir excepto de cuero,Elaboración de prendas de vestir,INDUSTRIA MANUFACTURERA
+152021,15,C,"Fabricación de calzado de materiales n.c.p., excepto calzado deportivo y ortopédico ",Elaboración de productos de cuero y calzado,INDUSTRIA MANUFACTURERA
+152011,15,C,"Fabricación de calzado de cuero, excepto calzado deportivo y ortopédico ",Elaboración de productos de cuero y calzado,INDUSTRIA MANUFACTURERA
+152031,15,C,Fabricación de calzado deportivo,Elaboración de productos de cuero y calzado,INDUSTRIA MANUFACTURERA
+151100,15,C,Curtido y terminación de cueros,Elaboración de productos de cuero y calzado,INDUSTRIA MANUFACTURERA
+152040,15,C,Fabricación de partes de calzado,Elaboración de productos de cuero y calzado,INDUSTRIA MANUFACTURERA
+151200,15,C,"Fabricación de maletas, bolsos de mano y similares, artículos de talabartería y artículos de cuero n.c.p.",Elaboración de productos de cuero y calzado,INDUSTRIA MANUFACTURERA
+161002,16,C,Aserrado y cepillado de madera implantada,Elaboración de productos de madera,INDUSTRIA MANUFACTURERA
+162903,16,C,Fabricación de productos de corcho,Elaboración de productos de madera,INDUSTRIA MANUFACTURERA
+162100,16,C,"Fabricación de hojas de madera para enchapado, fabricación de tableros contrachapados, tableros laminados, tableros de partículas y tableros y paneles n.c.p. (Incluye la fabricación de madera terciada y  machimbre)",Elaboración de productos de madera,INDUSTRIA MANUFACTURERA
+162202,16,C,Fabricación de viviendas prefabricadas de madera,Elaboración de productos de madera,INDUSTRIA MANUFACTURERA
+162909,16,C,"Fabricación de productos de madera n.c.p, fabricación de artículos de paja y materiales trenzables (Incluye enmarcado de cuadros, carpintería cuando no explicita especialidad)",Elaboración de productos de madera,INDUSTRIA MANUFACTURERA
+162901,16,C,Fabricación de ataúdes,Elaboración de productos de madera,INDUSTRIA MANUFACTURERA
+161001,16,C,Aserrado y cepillado de madera  nativa,Elaboración de productos de madera,INDUSTRIA MANUFACTURERA
+162902,16,C,Fabricación de artículos de madera en tornerías,Elaboración de productos de madera,INDUSTRIA MANUFACTURERA
+162300,16,C,Fabricación de recipientes de madera,Elaboración de productos de madera,INDUSTRIA MANUFACTURERA
+162201,16,C,Fabricación de aberturas y estructuras de madera para la construcción,Elaboración de productos de madera,INDUSTRIA MANUFACTURERA
+170201,17,C,Fabricación de papel ondulado y envases de papel,Elaboración de productos de papel,INDUSTRIA MANUFACTURERA
+170102,17,C,Fabricación de papel y cartón excepto envases,Elaboración de productos de papel,INDUSTRIA MANUFACTURERA
+170101,17,C,Fabricación de pasta de madera,Elaboración de productos de papel,INDUSTRIA MANUFACTURERA
+170202,17,C,Fabricación de cartón ondulado y envases de cartón,Elaboración de productos de papel,INDUSTRIA MANUFACTURERA
+170910,17,C,Fabricación de artículos de papel y cartón de uso doméstico e higiénico sanitario,Elaboración de productos de papel,INDUSTRIA MANUFACTURERA
+170990,17,C,Fabricación de artículos de papel y cartón n.c.p. (No incluye el papel de lija:  239900),Elaboración de productos de papel,INDUSTRIA MANUFACTURERA
+182000,18,C,Reproducción de grabaciones,Imprentas y editoriales,INDUSTRIA MANUFACTURERA
+181109,18,C,"Impresión n.c.p., excepto de diarios y revistas",Imprentas y editoriales,INDUSTRIA MANUFACTURERA
+181200,18,C,Servicios relacionados con la impresión,Imprentas y editoriales,INDUSTRIA MANUFACTURERA
+181101,18,C,Impresión de diarios y revistas,Imprentas y editoriales,INDUSTRIA MANUFACTURERA
+192000,19,C,Fabricación de productos de la refinación del petróleo,Fabricación de productos de refinación de petróleo,INDUSTRIA MANUFACTURERA
+191000,19,C,Fabricación de productos de hornos de coque,Fabricación de productos de refinación de petróleo,INDUSTRIA MANUFACTURERA
+201300,20,C,Fabricación de abonos y compuestos de nitrógeno,Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+201401,20,C,Fabricación de resinas y cauchos sintéticos,Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+202101,20,C,"Fabricación de insecticidas, plaguicidas y  productos químicos de uso agropecuario ",Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+203000,20,C,Fabricación de fibras manufacturadas,Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+204000,20,C,Servicios industriales para la fabricación de sustancias y productos químicos,Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+201190,20,C,"Fabricación de materias químicas orgánicas básicas n.c.p. (Incluye la fabricación de alcoholes excepto el etílico,  sustancias químicas para la elaboración de sustancias plásticas, carbón vegetal, etc.)",Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+202200,20,C,"Fabricación de pinturas, barnices y productos de revestimiento similares, tintas de imprenta y masillas",Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+201120,20,C,Fabricación de curtientes naturales y sintéticos,Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+201140,20,C,"Fabricación de combustible nuclear, sustancias y materiales radiactivos",Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+202312,20,C,Fabricación de jabones y detergentes,Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+202908,20,C,"Fabricación de productos químicos n.c.p. (Incluye la producción de aceites esenciales, tintas excepto para imprenta, etc.)",Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+202311,20,C,"Fabricación de preparados para limpieza, pulido y saneamiento ",Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+202320,20,C,"Fabricación de cosméticos, perfumes y  productos de higiene y tocador",Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+201130,20,C,"Fabricación de materias colorantes básicas, excepto pigmentos preparados",Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+201210,20,C,Fabricación de alcohol,Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+201110,20,C,Fabricación de gases industriales y medicinales comprimidos o licuados,Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+201220,20,C,Fabricación de biocombustibles excepto alcohol,Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+201409,20,C,Fabricación de materias plásticas en formas primarias n.c.p.,Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+202907,20,C,"Fabricación de colas, adhesivos, aprestos y cementos excepto los odontológicos obtenidos de sustancias minerales y vegetales",Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+202906,20,C,Fabricación de explosivos y productos de pirotecnia,Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+201180,20,C,Fabricación de materias químicas inorgánicas básicas n.c.p.,Fabricación de sustancias químicas,INDUSTRIA MANUFACTURERA
+210030,21,C,Fabricación de sustancias químicas para la elaboración de medicamentos,Elaboracion de productos farmacéuticos,INDUSTRIA MANUFACTURERA
+210020,21,C,Fabricación de medicamentos de uso veterinario,Elaboracion de productos farmacéuticos,INDUSTRIA MANUFACTURERA
+210010,21,C,Fabricación de medicamentos de uso humano y productos farmacéuticos,Elaboracion de productos farmacéuticos,INDUSTRIA MANUFACTURERA
+210090,21,C,Fabricación de productos de laboratorio y productos botánicos de uso farmaceútico n.c.p.,Elaboracion de productos farmacéuticos,INDUSTRIA MANUFACTURERA
+222010,22,C,Fabricación de envases plásticos,Fabricación de productos de caucho y vidrio,INDUSTRIA MANUFACTURERA
+221120,22,C,Recauchutado y renovación de cubiertas,Fabricación de productos de caucho y vidrio,INDUSTRIA MANUFACTURERA
+221110,22,C,Fabricación de cubiertas y cámaras,Fabricación de productos de caucho y vidrio,INDUSTRIA MANUFACTURERA
+222090,22,C,"Fabricación de productos plásticos en formas básicas y artículos de plástico n.c.p., excepto muebles",Fabricación de productos de caucho y vidrio,INDUSTRIA MANUFACTURERA
+221901,22,C,Fabricación de  autopartes de caucho excepto cámaras y cubiertas,Fabricación de productos de caucho y vidrio,INDUSTRIA MANUFACTURERA
+221909,22,C,Fabricación  de productos de caucho n.c.p.,Fabricación de productos de caucho y vidrio,INDUSTRIA MANUFACTURERA
+239201,23,C,Fabricación de ladrillos,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+239100,23,C,Fabricación de productos de cerámica refractaria,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+239593,23,C,"Fabricación de artículos de cemento, fibrocemento y yeso excepto hormigón y mosaicos",Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+239422,23,C,Elaboración de cal,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+239421,23,C,Elaboración de  yeso,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+239592,23,C,Fabricación de premoldeadas para la construcción,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+239900,23,C,"Fabricación de productos minerales no metálicos n.c.p. (Incluye la fabricación de abrasivos, lijas, membranas asfálticas, etc.)",Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+239399,23,C,Fabricación de artículos de cerámica no refractaria para uso no estructural n.c.p.,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+239310,23,C,Fabricación de artículos sanitarios de cerámica,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+239209,23,C,Fabricación de productos de arcilla y cerámica no refractaria para uso estructural n.c.p.,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+239391,23,C,Fabricación de objetos cerámicos para uso doméstico excepto artefactos sanitarios,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+231090,23,C,Fabricación de productos de vidrio n.c.p.,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+239600,23,C,"Corte, tallado y acabado de la piedra (Incluye mármoles y granitos, etc.)",Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+239510,23,C,Fabricación de mosaicos,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+239591,23,C,Elaboración de hormigón,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+239202,23,C,Fabricación de revestimientos cerámicos,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+239410,23,C,Elaboración de cemento,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+231010,23,C,Fabricación de envases de vidrio,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+231020,23,C,Fabricación y elaboración de vidrio plano,Fabricación de productos de vidrio y otros minerales no metálicos,INDUSTRIA MANUFACTURERA
+243100,24,C,Fundición de hierro y acero,Fabricación de metales comunes,INDUSTRIA MANUFACTURERA
+241001,24,C,"Laminación y estirado. Producción de lingotes, planchas o barras fabricadas por operadores independientes",Fabricación de metales comunes,INDUSTRIA MANUFACTURERA
+243200,24,C,Fundición de metales no ferrosos,Fabricación de metales comunes,INDUSTRIA MANUFACTURERA
+241009,24,C,Fabricación en industrias básicas de productos de hierro y acero n.c.p. (Incluye la producción de hojalata),Fabricación de metales comunes,INDUSTRIA MANUFACTURERA
+242090,24,C,Fabricación de productos primarios de metales preciosos y metales no ferrosos n.c.p. y sus semielaborados,Fabricación de metales comunes,INDUSTRIA MANUFACTURERA
+242010,24,C,Elaboración de aluminio primario y semielaborados de aluminio,Fabricación de metales comunes,INDUSTRIA MANUFACTURERA
+259910,25,C,Fabricación de envases metálicos,"Fabricación de productos elaborados del metal, excepto maquinaria y equipo",INDUSTRIA MANUFACTURERA
+259302,25,C,Fabricación de artículos de cuchillería y utensillos de mesa y de cocina,"Fabricación de productos elaborados del metal, excepto maquinaria y equipo",INDUSTRIA MANUFACTURERA
+259301,25,C,Fabricación de herramientas manuales y sus accesorios,"Fabricación de productos elaborados del metal, excepto maquinaria y equipo",INDUSTRIA MANUFACTURERA
+259991,25,C,Fabricación de tejidos de alambre,"Fabricación de productos elaborados del metal, excepto maquinaria y equipo",INDUSTRIA MANUFACTURERA
+251200,25,C,"Fabricación de tanques, depósitos y recipientes de metal (Incluye la fabricación de silos)","Fabricación de productos elaborados del metal, excepto maquinaria y equipo",INDUSTRIA MANUFACTURERA
+251300,25,C,Fabricación de generadores de vapor,"Fabricación de productos elaborados del metal, excepto maquinaria y equipo",INDUSTRIA MANUFACTURERA
+259992,25,C,Fabricación de cajas de seguridad,"Fabricación de productos elaborados del metal, excepto maquinaria y equipo",INDUSTRIA MANUFACTURERA
+251101,25,C,Fabricación de carpintería metálica,"Fabricación de productos elaborados del metal, excepto maquinaria y equipo",INDUSTRIA MANUFACTURERA
+251102,25,C,Fabricación de productos metálicos para uso estructural,"Fabricación de productos elaborados del metal, excepto maquinaria y equipo",INDUSTRIA MANUFACTURERA
+259993,25,C,Fabricación de productos metálicos de tornería y/o matricería,"Fabricación de productos elaborados del metal, excepto maquinaria y equipo",INDUSTRIA MANUFACTURERA
+259200,25,C,Tratamiento y revestimiento de metales y trabajos de metales en general,"Fabricación de productos elaborados del metal, excepto maquinaria y equipo",INDUSTRIA MANUFACTURERA
+259100,25,C,"Forjado, prensado, estampado y laminado de metales, pulvimetalurgia","Fabricación de productos elaborados del metal, excepto maquinaria y equipo",INDUSTRIA MANUFACTURERA
+259309,25,C,"Fabricación de cerraduras, herrajes y artículos de ferretería n.c.p.","Fabricación de productos elaborados del metal, excepto maquinaria y equipo",INDUSTRIA MANUFACTURERA
+252000,25,C,Fabricación de armas y municiones,"Fabricación de productos elaborados del metal, excepto maquinaria y equipo",INDUSTRIA MANUFACTURERA
+259999,25,C,Fabricación de productos elaborados de metal n.c.p.,"Fabricación de productos elaborados del metal, excepto maquinaria y equipo",INDUSTRIA MANUFACTURERA
+261000,26,C,Fabricación de componentes electrónicos,"Fabricación de productos de informática, de electrónica y de óptica",INDUSTRIA MANUFACTURERA
+262000,26,C,Fabricación de equipos y productos informáticos,"Fabricación de productos de informática, de electrónica y de óptica",INDUSTRIA MANUFACTURERA
+265200,26,C,Fabricación de relojes,"Fabricación de productos de informática, de electrónica y de óptica",INDUSTRIA MANUFACTURERA
+263000,26,C,Fabricación  de equipos de comunicaciones y transmisores de radio y televisión,"Fabricación de productos de informática, de electrónica y de óptica",INDUSTRIA MANUFACTURERA
+268000,26,C,"Fabricación de soportes ópticos y magnéticos (Incluye CD, disquetes, cintas magnéticas, tarjetas magnetizadas, etc.)","Fabricación de productos de informática, de electrónica y de óptica",INDUSTRIA MANUFACTURERA
+265102,26,C,Fabricación de equipo de control de procesos industriales,"Fabricación de productos de informática, de electrónica y de óptica",INDUSTRIA MANUFACTURERA
+266010,26,C,"Fabricación de equipo médico y quirúrgico y de aparatos ortopédicos principalmente electrónicos y/o eléctricos (Incluye equipos de laboratorio, esterilizadores, paneles para observación de radiografías, tornos, etc.)","Fabricación de productos de informática, de electrónica y de óptica",INDUSTRIA MANUFACTURERA
+266090,26,C,"Fabricación de equipo médico y quirúrgico y de aparatos ortopédicos n.c.p. (Incluye prótesis, aparatos ortopédicos, materiales para fracturas, etc.)","Fabricación de productos de informática, de electrónica y de óptica",INDUSTRIA MANUFACTURERA
+267001,26,C,Fabricación de equipamiento e instrumentos ópticos y sus accesorios,"Fabricación de productos de informática, de electrónica y de óptica",INDUSTRIA MANUFACTURERA
+264000,26,C,"Fabricación de receptores de radio y televisión, aparatos de grabación y reproducción de sonido y video, y productos conexos","Fabricación de productos de informática, de electrónica y de óptica",INDUSTRIA MANUFACTURERA
+265101,26,C,"Fabricación de instrumentos y aparatos para medir, verificar, ensayar, navegar y otros fines, excepto el equipo de control de procesos industriales ","Fabricación de productos de informática, de electrónica y de óptica",INDUSTRIA MANUFACTURERA
+267002,26,C,"Fabricación de aparatos y accesorios para fotografía excepto películas, placas y papeles sensibles","Fabricación de productos de informática, de electrónica y de óptica",INDUSTRIA MANUFACTURERA
+271020,27,C,Fabricación de aparatos de distribución y control de la energía eléctrica,Fabricación de equipo eléctrico,INDUSTRIA MANUFACTURERA
+273190,27,C,Fabricación de hilos y cables aislados n.c.p.,Fabricación de equipo eléctrico,INDUSTRIA MANUFACTURERA
+273110,27,C,Fabricación de cables de fibra óptica,Fabricación de equipo eléctrico,INDUSTRIA MANUFACTURERA
+275092,27,C,"Fabricación de planchas, calefactores, hornos eléctricos, tostadoras y otros aparatos generadores de calor",Fabricación de equipo eléctrico,INDUSTRIA MANUFACTURERA
+275099,27,C,"Fabricación de aparatos de uso doméstico n.c.p. (Incluye enceradoras, pulidoras, batidoras, licuadoras y similares)",Fabricación de equipo eléctrico,INDUSTRIA MANUFACTURERA
+274000,27,C,Fabricación de lámparas eléctricas y equipo de iluminación,Fabricación de equipo eléctrico,INDUSTRIA MANUFACTURERA
+275020,27,C,"Fabricación de heladeras, freezers, lavarropas y secarropas",Fabricación de equipo eléctrico,INDUSTRIA MANUFACTURERA
+271010,27,C,"Fabricación de motores, generadores y transformadores eléctricos",Fabricación de equipo eléctrico,INDUSTRIA MANUFACTURERA
+272000,27,C,"Fabricación de acumuladores, pilas y baterías primarias",Fabricación de equipo eléctrico,INDUSTRIA MANUFACTURERA
+279000,27,C,Fabricación  de equipo eléctrico n.c.p.,Fabricación de equipo eléctrico,INDUSTRIA MANUFACTURERA
+275010,27,C,"Fabricación de cocinas, calefones, estufas y calefactores no eléctricos",Fabricación de equipo eléctrico,INDUSTRIA MANUFACTURERA
+275091,27,C,"Fabricación de ventiladores, extractores de aire, aspiradoras y similares",Fabricación de equipo eléctrico,INDUSTRIA MANUFACTURERA
+281301,28,C,"Fabricación de compresores, grifos y válvulas",Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+281700,28,C,"Fabricación de maquinaria y equipo de oficina, excepto equipo informático",Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+282130,28,C,Fabricación de implementos de uso agropecuario,Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+282200,28,C,Fabricación de máquinas herramienta,Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+281900,28,C,"Fabricación de  maquinaria y equipo de uso general n.c.p. (Incluye la fabricación de equipos de aire acondicionado, matafuegos, etc.)",Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+281500,28,C,"Fabricación de hornos, hogares y quemadores",Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+282909,28,C,Fabricación de maquinaria y equipo de uso especial n.c.p.,Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+282500,28,C,"Fabricación de maquinaria para la elaboración de alimentos, bebidas y tabaco",Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+282300,28,C,Fabricación de maquinaria metalúrgica,Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+282120,28,C,Fabricación de maquinaria y equipo de uso agropecuario y forestal,Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+282400,28,C,"Fabricación de maquinaria para la explotación de minas y canteras y para obras de construcción (Incluye la fabricación de máquinas y equipos viales, equipos para la extracción de petróleo y gas, etc.)",Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+282901,28,C,Fabricación de maquinaria para la industria del papel y las artes gráficas,Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+281100,28,C,"Fabricación  de  motores  y  turbinas,  excepto  motores  para aeronaves, vehículos automotores   y motocicletas",Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+281201,28,C,Fabricación de bombas,Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+281400,28,C,"Fabricación de cojinetes, engranajes, trenes de engranaje y piezas de transmisión",Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+282110,28,C,Fabricación de tractores,Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+281600,28,C,"Fabricación de maquinaria y equipo de elevación y manipulación (Incluye la fabricación de ascensores, escaleras mecánicas, montacargas, etc.)",Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+282600,28,C,"Fabricación de maquinaria para la elaboración de productos textiles, prendas de vestir y cueros",Fabricación de maquinarias,INDUSTRIA MANUFACTURERA
+293090,29,C,"Fabricación de partes, piezas y accesorios para vehículos automotores y sus motores n.c.p.","Fabricación de vehículos automotores, remolques y semirremolques",INDUSTRIA MANUFACTURERA
+293011,29,C,Rectificación de motores,"Fabricación de vehículos automotores, remolques y semirremolques",INDUSTRIA MANUFACTURERA
+291000,29,C,Fabricación de vehículos automotores (Incluye la fabricación de motores para automotores),"Fabricación de vehículos automotores, remolques y semirremolques",INDUSTRIA MANUFACTURERA
+292000,29,C,"Fabricación de carrocerías para vehículos automotores, fabricación de remolques y semirremolques","Fabricación de vehículos automotores, remolques y semirremolques",INDUSTRIA MANUFACTURERA
+309900,30,C,Fabricación de equipo de transporte n.c.p.,Fabricación de otros equipos de transporte,INDUSTRIA MANUFACTURERA
+301200,30,C,Construcción y reparación de embarcaciones de recreo y deporte,Fabricación de otros equipos de transporte,INDUSTRIA MANUFACTURERA
+309200,30,C,Fabricación de bicicletas y de sillones de ruedas ortopédicos,Fabricación de otros equipos de transporte,INDUSTRIA MANUFACTURERA
+309100,30,C,Fabricación de motocicletas,Fabricación de otros equipos de transporte,INDUSTRIA MANUFACTURERA
+301100,30,C,Construcción y reparación de buques (Incluye construcción de estructuras flotantes),Fabricación de otros equipos de transporte,INDUSTRIA MANUFACTURERA
+302000,30,C,Fabricación y reparación de locomotoras y de material rodante para transporte ferroviario,Fabricación de otros equipos de transporte,INDUSTRIA MANUFACTURERA
+303000,30,C,Fabricación y reparación de aeronaves,Fabricación de otros equipos de transporte,INDUSTRIA MANUFACTURERA
+310020,31,C,"Fabricación de muebles y partes de muebles, excepto los que son principalmente de madera (metal, plástico, etc.)",Fabricación de muebles,INDUSTRIA MANUFACTURERA
+310010,31,C,"Fabricación de muebles y partes de muebles, principalmente de madera",Fabricación de muebles,INDUSTRIA MANUFACTURERA
+310030,31,C,Fabricación de somieres y colchones,Fabricación de muebles,INDUSTRIA MANUFACTURERA
+321020,32,C,Fabricación de bijouterie (Incluye la fabricación de joyas de fantasía y accesorios similares),Otras industrias manufactureras,INDUSTRIA MANUFACTURERA
+329010,32,C,"Fabricación de lápices, lapiceras,  bolígrafos, sellos y artículos similares para oficinas y artistas",Otras industrias manufactureras,INDUSTRIA MANUFACTURERA
+329090,32,C,"Industrias manufactureras n.c.p. (Incluye fabricación de paraguas, termos, pelucas, etc.)",Otras industrias manufactureras,INDUSTRIA MANUFACTURERA
+329040,32,C,"Fabricación de equipo de protección y seguridad, excepto calzado",Otras industrias manufactureras,INDUSTRIA MANUFACTURERA
+321011,32,C,Fabricación de joyas finas y artículos conexos,Otras industrias manufactureras,INDUSTRIA MANUFACTURERA
+321012,32,C,Fabricación de objetos de platería,Otras industrias manufactureras,INDUSTRIA MANUFACTURERA
+322001,32,C,Fabricación de instrumentos de música,Otras industrias manufactureras,INDUSTRIA MANUFACTURERA
+324000,32,C,Fabricación de juegos y juguetes,Otras industrias manufactureras,INDUSTRIA MANUFACTURERA
+329020,32,C,"Fabricación de escobas, cepillos y pinceles ",Otras industrias manufactureras,INDUSTRIA MANUFACTURERA
+329030,32,C,"Fabricación de carteles, señales e indicadores  -eléctricos o no-",Otras industrias manufactureras,INDUSTRIA MANUFACTURERA
+323001,32,C,"Fabricación de artículos de deporte (Incluye equipos de deporte para gimnasia y campos de juegos, equipos de pesca y camping, etc., excepto indumentaria deportiva: 141040)",Otras industrias manufactureras,INDUSTRIA MANUFACTURERA
+331400,33,C,Reparación y mantenimiento de maquinaria y aparatos eléctricos,Reparación e instalación de maquinaria y equipo,INDUSTRIA MANUFACTURERA
+331301,33,C,"Reparación y mantenimiento de instrumentos médicos, ópticos y de precisión, equipo fotográfico, aparatos para medir, ensayar o navegar, relojes, excepto para uso personal o doméstico",Reparación e instalación de maquinaria y equipo,INDUSTRIA MANUFACTURERA
+331900,33,C,Reparación y mantenimiento de máquinas y equipo n.c.p.,Reparación e instalación de maquinaria y equipo,INDUSTRIA MANUFACTURERA
+331290,33,C,Reparación y mantenimiento de maquinaria de uso especial n.c.p.,Reparación e instalación de maquinaria y equipo,INDUSTRIA MANUFACTURERA
+331210,33,C,Reparación y mantenimiento de maquinaria de uso general,Reparación e instalación de maquinaria y equipo,INDUSTRIA MANUFACTURERA
+331101,33,C,"Reparación y mantenimiento de productos de metal, excepto maquinaria y equipo",Reparación e instalación de maquinaria y equipo,INDUSTRIA MANUFACTURERA
+331220,33,C,Reparación y mantenimiento de maquinaria y equipo de uso agropecuario y forestal,Reparación e instalación de maquinaria y equipo,INDUSTRIA MANUFACTURERA
+332000,33,C,Instalación de maquinaria y equipos industriales,Reparación e instalación de maquinaria y equipo,INDUSTRIA MANUFACTURERA
+351310,35,D,Comercio mayorista de energía eléctrica,"Suministro de electricidad, gas, vapor y aire acondicionado","SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO"
+351110,35,D,"Generación de energía térmica convencional (Incluye la producción de energía eléctrica mediante máquinas turbo-gas, turbo vapor, ciclo combinado y turbo diesel)","Suministro de electricidad, gas, vapor y aire acondicionado","SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO"
+351130,35,D,Generación de energía hidráulica (Incluye la producción de energía eléctrica mediante centrales de bombeo),"Suministro de electricidad, gas, vapor y aire acondicionado","SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO"
+352010,35,D,Fabricación de gas y procesamiento de gas natural,"Suministro de electricidad, gas, vapor y aire acondicionado","SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO"
+351201,35,D,Transporte de energía eléctrica,"Suministro de electricidad, gas, vapor y aire acondicionado","SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO"
+351190,35,D,"Generación de energía n.c.p. (Incluye la producción de energía eléctrica mediante fuentes de energía solar, biomasa, eólica, geotérmica, mareomotriz, etc.)","Suministro de electricidad, gas, vapor y aire acondicionado","SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO"
+351320,35,D,Distribución de energía eléctrica,"Suministro de electricidad, gas, vapor y aire acondicionado","SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO"
+353001,35,D,Suministro de vapor y aire acondicionado,"Suministro de electricidad, gas, vapor y aire acondicionado","SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO"
+351120,35,D,Generación de energía térmica nuclear (Incluye la producción de energía eléctrica mediante combustible nuclear),"Suministro de electricidad, gas, vapor y aire acondicionado","SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO"
+352020,35,D,Distribución de combustibles gaseosos por tuberías (No incluye el transporte por gasoductos),"Suministro de electricidad, gas, vapor y aire acondicionado","SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO"
+360020,36,E,"Captación, depuración y distribución de agua de fuentes superficiales","Captación, tratamiento y distribución de agua",SUMINISTRO DE AGUA; CLOACAS; GESTIÓN DE RESIDUOS Y RECUPERACIÓN DE MATERIALES Y SANEAMIENTO PUBLICO
+360010,36,E,"Captación, depuración y distribución de agua de fuentes subterráneas","Captación, tratamiento y distribución de agua",SUMINISTRO DE AGUA; CLOACAS; GESTIÓN DE RESIDUOS Y RECUPERACIÓN DE MATERIALES Y SANEAMIENTO PUBLICO
+370000,37,E,"Servicios de depuración de aguas residuales, alcantarillado y cloacas",Evacuación de aguas residuales,SUMINISTRO DE AGUA; CLOACAS; GESTIÓN DE RESIDUOS Y RECUPERACIÓN DE MATERIALES Y SANEAMIENTO PUBLICO
+381200,38,E,"Recolección, transporte, tratamiento y disposición final de residuos peligrosos","Recogida, tratamiento y eliminación de desechos; recuperación de materiales",SUMINISTRO DE AGUA; CLOACAS; GESTIÓN DE RESIDUOS Y RECUPERACIÓN DE MATERIALES Y SANEAMIENTO PUBLICO
+381100,38,E,"Recolección, transporte, tratamiento y disposición final de residuos no peligrosos","Recogida, tratamiento y eliminación de desechos; recuperación de materiales",SUMINISTRO DE AGUA; CLOACAS; GESTIÓN DE RESIDUOS Y RECUPERACIÓN DE MATERIALES Y SANEAMIENTO PUBLICO
+382020,38,E,Recuperación de materiales y desechos no metálicos,"Recogida, tratamiento y eliminación de desechos; recuperación de materiales",SUMINISTRO DE AGUA; CLOACAS; GESTIÓN DE RESIDUOS Y RECUPERACIÓN DE MATERIALES Y SANEAMIENTO PUBLICO
+382010,38,E,Recuperación de materiales y desechos metálicos,"Recogida, tratamiento y eliminación de desechos; recuperación de materiales",SUMINISTRO DE AGUA; CLOACAS; GESTIÓN DE RESIDUOS Y RECUPERACIÓN DE MATERIALES Y SANEAMIENTO PUBLICO
+390000,39,E,Descontaminación y otros servicios de gestión de residuos,Descontaminación y otros servicios,SUMINISTRO DE AGUA; CLOACAS; GESTIÓN DE RESIDUOS Y RECUPERACIÓN DE MATERIALES Y SANEAMIENTO PUBLICO
+410021,41,F,"Construcción, reforma y reparación de edificios no residenciales (Incluye construcción, reforma y reparación de restaurantes, bares, campamentos, bancos, oficinas, galerías comerciales, estaciones de servicio, edificios para tráfico y comunicaciones, garajes, edificios industriales y depósitos, escuelas, etc.)",Construcción de edificios y partes,CONSTRUCCIÓN
+410011,41,F,"Construcción, reforma y reparación de edificios residenciales (Incluye la construcción, reforma y reparación  de viviendas unifamiliares y multifamiliares, bungaloes, cabañas, casas de campo, departamentos, albergues para ancianos, niños, estudiantes, etc.)",Construcción de edificios y partes,CONSTRUCCIÓN
+421000,42,F,"Construcción, reforma y reparación de obras de infraestructura para el transporte (Incluye la construcción, reforma y reparación de calles, autopistas, carreteras, puentes, túneles, vías férreas y pistas de aterrizaje, la señalización mediante pintura, etc.)",Obras de ingeniería civil,CONSTRUCCIÓN
+429010,42,F,"Construcción, reforma y reparación de obras hidráulicas (Incluye obras fluviales y canales, acueductos, diques, etc.)",Obras de ingeniería civil,CONSTRUCCIÓN
+422100,42,F,Perforación de pozos de agua,Obras de ingeniería civil,CONSTRUCCIÓN
+422200,42,F,"Construcción, reforma y reparación de redes distribución de electricidad, gas, agua, telecomunicaciones y de otros servicios públicos",Obras de ingeniería civil,CONSTRUCCIÓN
+429090,42,F,"Construcción de obras de ingeniería civil n.c.p. (Incluye los trabajos generales de construcción para la minería y la industria,  de centrales eléctricas y nucleares, excavaciones de sepulturas, etc.)",Obras de ingeniería civil,CONSTRUCCIÓN
+432110,43,F,"Instalación de sistemas de iluminación, control y señalización eléctrica para el transporte ",Actividades especializadas de construcción,CONSTRUCCIÓN
+433010,43,F,"Instalaciones de carpintería, herrería de obra y artística (Incluye instalación de puertas y ventanas, carpintería metálica y no metálica, etc.)",Actividades especializadas de construcción,CONSTRUCCIÓN
+433090,43,F,"Terminación de edificios n.c.p. (Incluye trabajos de ornamentación, limpieza exterior de edificios recién construídos, etc.)",Actividades especializadas de construcción,CONSTRUCCIÓN
+439990,43,F,"Actividades especializadas de construcción n.c.p. (Incluye el alquiler, montaje y desmantelamiento de andamios,  la construcción de chimeneas y hornos industriales, el acorazamiento de cajas fuertes y cámaras frigoríficas, el armado e instalación de compuertas para diques, etc.)",Actividades especializadas de construcción,CONSTRUCCIÓN
+431220,43,F,"Perforación y sondeo, excepto perforación de pozos de petróleo, de gas, de minas e hidráulicos  y prospección de yacimientos de petróleo (Incluye los trabajos de perforación, sondeo y muestreo con fines de construcción o para estudios geofísicos, geológicos u otros similares, las perforaciones horizontales para el paso de cables o cañerías de drenaje, etc.), (No incluye los servicios de perforación relacionados con la extracción de petróleo y gas, activ.091000, ni la perforación de pozos hidráulicos, activ.422100)",Actividades especializadas de construcción,CONSTRUCCIÓN
+432200,43,F,"Instalaciones de gas, agua, sanitarios y de climatización, con sus artefactos conexos (Incluye la instalación de compactadores, calderas, sistemas de calefacción central, etc.)",Actividades especializadas de construcción,CONSTRUCCIÓN
+432190,43,F,"Instalación, ejecución y mantenimiento de instalaciones eléctricas, electromecánicas y electrónicas n.c.p. (Incluye la instalación de antenas, pararrayos, sistemas de alarmas contra incendios y robos, sistemas de telecomunicación, etc.)",Actividades especializadas de construcción,CONSTRUCCIÓN
+433020,43,F,"Terminación y revestimiento de paredes y pisos (Incluye yesería, salpicré, el pulido de pisos y la colocación de revestimientos de cerámicas, de piedra tallada, de suelos flexibles, parqué, baldosas, empapelados, etc.)",Actividades especializadas de construcción,CONSTRUCCIÓN
+431210,43,F,"Movimiento de suelos y preparación de terrenos para obras (Incluye el drenaje, excavación de zanjas para construcciones diversas, el despeje de capas superficiales no contaminadas, movimientos de tierras para hacer terraplenes o desmontes previos a la construcción de vías, carreteras, autopistas, FFCC, etc.)",Actividades especializadas de construcción,CONSTRUCCIÓN
+431100,43,F,"Demolición y voladura de edificios y de sus partes (Incluye los trabajos de limpieza de escombros asociada a la demolición, los derribos y demolición de edificios y obras de ingeniería civil,.los trabajos de voladura y remoción de rocas) ",Actividades especializadas de construcción,CONSTRUCCIÓN
+439100,43,F,Alquiler de equipo de construcción o demolición dotado de operarios,Actividades especializadas de construcción,CONSTRUCCIÓN
+432910,43,F,"Instalaciones de ascensores, montacargas y  escaleras mecánicas",Actividades especializadas de construcción,CONSTRUCCIÓN
+439910,43,F,"Hincado de pilotes, cimentación y otros trabajos de hormigón armado",Actividades especializadas de construcción,CONSTRUCCIÓN
+433040,43,F,Pintura y trabajos de decoración,Actividades especializadas de construcción,CONSTRUCCIÓN
+432920,43,F,"Aislamiento térmico, acústico, hídrico y antivibratorio",Actividades especializadas de construcción,CONSTRUCCIÓN
+432990,43,F,Instalaciones para edificios y obras de ingeniería civil n.c.p. (Incluye instalación de puertas automáticas o giratorias),Actividades especializadas de construcción,CONSTRUCCIÓN
+433030,43,F,"Colocación de cristales en obra (Incluye la instalación y revestimiento de vidrio, espejos y otros artículos de vidrio, etc.)",Actividades especializadas de construcción,CONSTRUCCIÓN
+452210,45,G,Reparación de cámaras y cubiertas (Incluye reparación de llantas),Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+454010,45,G,"Venta de motocicletas y de sus partes, piezas y accesorios",Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+452401,45,G,"Reparaciones eléctricas del tablero e instrumental, reparación y recarga de baterías, instalación de alarmas, radios, sistemas de climatización",Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+451190,45,G,"Venta de vehículos automotores nuevos n.c.p. (Incluye casas rodantes, trailers, camiones, remolques, ambulancias, ómnibus, microbuses y similares, cabezas tractoras, etc.)",Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+454020,45,G,Mantenimiento y reparación de motocicletas,Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+453292,45,G,"Venta al por menor de partes, piezas y accesorios usados n.c.p.",Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+451290,45,G,"Venta de vehículos automotores usados n.c.p. (Incluye, casas rodantes, trailers, camiones, remolques, ambulancias, ómnibus, microbuses y similares, cabezas tractoras, etc.)",Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+452800,45,G,Mantenimiento y reparación de frenos y embragues,Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+452910,45,G,Instalación y reparación de equipos de GNC,Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+452990,45,G,"Mantenimiento y reparación del motor n.c.p., mecánica integral (Incluye auxilio y servicios de grúa para automotores) ",Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+451210,45,G,"Venta de autos, camionetas y utilitarios, usados (Incluye taxis, jeeps, 4x4 y vehículos similares)",Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+451110,45,G,"Venta de autos, camionetas y utilitarios nuevos (Incluye taxis, jeeps, 4x4 y vehículos similares)",Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+452101,45,G,Lavado automático y manual de vehículos automotores,Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+452220,45,G,"Reparación de amortiguadores,  alineación de dirección y balanceo de ruedas ",Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+452600,45,G,"Reparación y pintura de carrocerías, colocación y reparación de guardabarros y protecciones exteriores",Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+452300,45,G,"Instalación y reparación de parabrisas, lunetas y ventanillas, cerraduras no eléctricas y grabado de cristales (Incluye instalación y reparación de aletas, burletes y colisas)",Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+452700,45,G,Instalación y reparación de caños de escape y radiadores,Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+453291,45,G,"Venta al por menor de partes, piezas y accesorios nuevos n.c.p.",Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+453100,45,G,"Venta al por mayor de partes, piezas y accesorios de vehículos automotores",Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+452500,45,G,Tapizado y retapizado de automotores,Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+453210,45,G,Venta al por menor de cámaras y cubiertas,Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+453220,45,G,Venta al por menor de baterías,Comercio al por mayor y al por menor y reparación de vehículos automotores y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464940,46,G,"Venta al por mayor de bicicletas y rodados similares (Incluye cochecitos y sillas de paseo para bebés, andadores, triciclos, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464420,46,G,"Venta al por mayor de artículos de relojería, joyería y fantasías",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+469090,46,G,Venta al por mayor de mercancías n.c.p.,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463111,46,G,Venta al por mayor de productos lácteos,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464920,46,G,Venta al por mayor de materiales y productos de limpieza,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464129,46,G,"Venta al por mayor de prendas y accesorios de vestir n.c.p., excepto uniformes y ropa de trabajo",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461022,46,G,Venta al por mayor en comisión o consignación de ganado en pie excepto bovino,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461021,46,G,Venta al por mayor en comisión o consignación de ganado bovino en pie (Incluye consignatarios de hacienda y ferieros),Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466939,46,G,"Venta al por mayor de productos intermedios, desperdicios y desechos de vidrio, caucho, goma y químicos n.c.p.",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+462132,46,G,"Acopio y acondicionamiento de cereales y semillas, excepto de algodón y semillas y granos para forrajes",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461013,46,G,Venta al por mayor en comisión o consignación de frutas (Incluye acopiadores y receptoras),Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463151,46,G,"Venta al por mayor de pan, productos de confitería y pastas frescas",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465350,46,G,"Venta al por mayor de máquinas, equipos e implementos de uso médico y paramédico (Incluye venta de equipos de diagnóstico y tratamiento, camillas, cajas de cirugía, jeringas y otros implementos de material descartable, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464310,46,G,"Venta al por mayor de productos farmacéuticos (Incluye venta de medicamentos y kits de diagnóstico como test de embarazo, hemoglucotest, vacunas, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+462201,46,G,"Venta al por mayor de lanas, cueros en bruto y productos afines",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464119,46,G,Venta al por mayor de productos textiles n.c.p.,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466360,46,G,"Venta al por mayor de artículos para plomería, instalación de gas y calefacción",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465400,46,G,Venta al por mayor de máquinas - herramienta de uso general,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461040,46,G,Venta al por mayor en comisión o consignación de combustibles (No incluye electricidad),Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464620,46,G,Venta al por mayor de artículos de iluminación,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465990,46,G,"Venta al por mayor de máquinas, equipo y materiales conexos n.c.p.",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465920,46,G,"Venta al por mayor de maquinaria y equipo de oficina, excepto equipo informático",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464121,46,G,Venta al por mayor de prendas de vestir de cuero,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466320,46,G,"Venta al por mayor de productos de madera excepto muebles (Incluye placas, varillas, parqué, machimbre, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461019,46,G,Venta al por mayor en comisión o consignación de productos agrícolas n.c.p.,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465500,46,G,"Venta  al  por  mayor  de  vehículos,  equipos  y  máquinas  para  el transporte ferroviario, aéreo y de navegación",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464221,46,G,Venta al por mayor de papel y productos de papel y cartón excepto envases,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461099,46,G,Venta al por mayor en comisión o consignación de  mercaderías n.c.p.,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465330,46,G,"Venta al por mayor de máquinas, equipos e implementos de uso en la fabricación de textiles, prendas y accesorios de vestir, calzado, artículos de cuero y marroquinería (Incluye venta de máquinas de coser, de cortar tejidos, de tejer, extender telas, robots de corte y otros equipos para la industria textil y confeccionista, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464149,46,G,"Venta al por mayor de artículos de marroquinería,  paraguas y productos similares n.c.p.",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464502,46,G,"Venta al por mayor de equipos de audio, video y televisión",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+469010,46,G,Venta al por mayor de insumos agropecuarios diversos,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461029,46,G,Venta al por mayor en comisión o consignación de productos pecuarios n.c.p.,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464223,46,G,Venta al por mayor de artículos de librería y papelería,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464112,46,G,"Venta al por mayor de artículos de mercería (Incluye la venta de puntillas, galones, hombreras, agujas, botones, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465210,46,G,Venta al por mayor de equipos de telefonía y comunicaciones,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466350,46,G,Venta al por mayor de cristales y espejos,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463199,46,G,"Venta al por mayor de productos alimenticios n.c.p. (Incluye la venta de miel y derivados, productos congelados,  etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466391,46,G,"Venta al por mayor de artículos de loza, cerámica y porcelana de uso en construcción",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461092,46,G,Venta al por mayor en comisión o consignación de  madera y materiales para la construcción,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463211,46,G,Venta al por mayor de vino,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463170,46,G,Venta al por mayor de alimentos balanceados para animales,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465690,46,G,"Venta al por mayor de muebles e instalaciones para la industria, el comercio y los servicios n.c.p.",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464950,46,G,"Venta al por mayor de artículos de esparcimiento y deportes (Incluye embarcaciones deportivas, armas y municiones, equipos de pesca, piletas de natación de lona o plástico, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464142,46,G,"Venta al por mayor de suelas y afines (Incluye talabarterías, artículos regionales de cuero, almacenes de suelas, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464212,46,G,Venta al por mayor de diarios y revistas,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465390,46,G,"Venta al por mayor de máquinas, equipos e implementos de uso especial n.c.p.  (Incluye motoniveladoras, excavadoras, palas mecánicas, perforadoras-percutoras, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+462110,46,G,Acopio de algodón,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464910,46,G,Venta al por mayor de CD's y DVD's de audio y video grabados.,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+462190,46,G,"Venta al por mayor de materias primas agrícolas y de la silvicultura n.c.p. (Incluye el acopio y venta al por mayor de materiles, desperdicios, subproductos agrícola usados como alimentos para animales)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465320,46,G,"Venta al por mayor de máquinas, equipos e implementos de uso en la elaboración de alimentos, bebidas y tabaco (Incluye máquinas para moler, picar y cocer alimentos, fabricadora de pastas, bateas, enfriadoras y envasadoras de bebidas, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465340,46,G,"Venta al por mayor de máquinas, equipos e implementos de uso en imprentas, artes gráficas y actividades conexas (Incluye venta de máquinas fotocopiadoras - excepto las de uso personal-, copiadoras de planos, máquinas para imprimir, guillotinar, troquelar, encuadernar, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465360,46,G,"Venta al por mayor de máquinas, equipos e implementos de uso en la industria del plástico y del caucho (Incluye sopladora de envases, laminadora de plásticos, máquinas extrusoras y moldeadoras, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465930,46,G,Venta al por mayor de equipo profesional y científico e instrumentos de medida y de control n.c.p.,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464410,46,G,"Venta al por mayor de artículos de óptica y de fotografía (Incluye venta de lentes de contacto, líquidos oftalmológicos, armazones, cristales ópticos, películas fotográficas, cámaras y accesorios para fotografía, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461012,46,G,Venta al por mayor en comisión o consignación de semillas,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464340,46,G,Venta al por mayor de productos veterinarios,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464122,46,G,Venta al por mayor de medias y prendas de punto,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466330,46,G,"Venta al por mayor de artículos de ferretería y materiales eléctricos (Incluye la venta  de clavos, cerraduras, cable coaxil. etc)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464631,46,G,Venta al por mayor de artículos de vidrio,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463219,46,G,"Venta al por mayor de bebidas alcohólicas n.c.p. (Incluye la venta de aperitivos con alcohol, cerveza, sidra, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463160,46,G,"Venta al por mayor de chocolates, golosinas y productos para kioscos y polirrubros n.c.p., excepto cigarrillos",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463191,46,G,"Venta al por mayor de frutas, legumbres y cereales secos y en conserva",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461091,46,G,"Venta al por mayor en comisión o consignación de productos textiles, prendas de vestir, calzado excepto el ortopédico,  artículos de marroquinería, paraguas y similares y productos de cuero n.c.p.",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461032,46,G,"Operaciones de intermediación de carne excepto consignatario directo (Incluye matarifes abastecedores de carne, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464632,46,G,Venta al por mayor de artículos de bazar y menaje excepto de vidrio,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464150,46,G,Venta al por mayor de uniformes y ropa de trabajo,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466340,46,G,Venta al por mayor de pinturas y productos conexos,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466399,46,G,Venta al por mayor de artículos para la construcción n.c.p. (No incluye artículos y materiales de demolición: 466990 ),Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463152,46,G,Venta al por mayor de azúcar,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466990,46,G,"Venta al por mayor de productos intermedios, desperdicios y desechos n.c.p.",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461014,46,G,"Acopio y acondicionamiento en comisión o consignación de cereales (incluye arroz), oleaginosas y forrajeras excepto semillas",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+462120,46,G,Venta al por mayor de semillas y granos para forrajes,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464991,46,G,Venta al por mayor de flores y plantas naturales y artificiales,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463180,46,G,Venta al por mayor en supermercados mayoristas de alimentos,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463220,46,G,"Venta al por mayor de bebidas no alcohólicas (Incluye la venta de aguas, sodas, bebidas refrescantes, jarabes, extractos, concentrados, gaseosas, jugos, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463130,46,G,Venta al por mayor de pescado,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463300,46,G,Venta al por mayor de cigarrillos y productos de tabaco,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463140,46,G,"Venta al por mayor y empaque de frutas, de legumbres y hortalizas frescas",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466932,46,G,"Venta al por mayor de abonos, fertilizantes y plaguicidas",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464211,46,G,Venta al por mayor de libros y publicaciones,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464501,46,G,Venta al por mayor de electrodomésticos y artefactos para el hogar excepto equipos de audio y video,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464330,46,G,"Venta al por mayor de instrumental médico y odontológico y artículos ortopédicos (Incluye venta de vaporizadores, nebulizadores, masajeadores, termómetros, prótesis, muletas, plantillas, calzado ortopédico y otros artículos similares de uso personal o doméstico)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464141,46,G,Venta al por mayor de pieles y cueros curtidos y salados,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463112,46,G,Venta al por mayor de fiambres y quesos,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463153,46,G,Venta al por mayor de aceites y grasas,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464320,46,G,"Venta al por mayor de productos cosméticos, de tocador y de perfumería (Incluye venta de artículos para peluquería excepto equipamiento)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464999,46,G,"Venta al por mayor de artículos de uso doméstico o personal n.c.p (Incluye artículos de platería excepto los incluidos en talabartería, cuadros y marcos que no sean obra de arte o de colección, sahumerios y artículos de santería, parrillas y hogares, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466200,46,G,Venta al por mayor de metales y minerales metalíferos,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464111,46,G,Venta al por mayor de tejidos (telas),Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463129,46,G,"Venta al por mayor de aves, huevos y productos de granja y de la caza n.c.p. (Incluye la venta al por mayor  de carne de ave fresca, congelada o refrigerada)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465100,46,G,"Venta al por mayor de equipos, periféricos, accesorios y programas informáticos",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464113,46,G,"Venta al por mayor de mantelería, ropa de cama y artículos textiles para el hogar",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465310,46,G,"Venta al por mayor de máquinas, equipos e implementos de uso en los sectores agropecuario, jardinería, silvicultura, pesca y caza (Incluye venta de tractores, cosechadoras, enfardadoras, remolques de carga y descarga automática, motosierras, cortadoras de césped autopropulsadas, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466310,46,G,"Venta al por mayor de aberturas (Incluye puertas, ventanas, cortinas de enrollar, madera, aluminio, puertas corredizas, frentes de placard, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466121,46,G,Fraccionamiento y distribución de gas licuado,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465910,46,G,Venta al por mayor de máquinas y equipo de control y seguridad,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463121,46,G,Venta al por mayor de carnes rojas y derivados (Incluye abastecedores y distribuidores de carne),Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466129,46,G,"Venta al por mayor de combustibles, lubricantes, leña y carbón, excepto gas licuado y combustibles y lubricantes para automotores",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466920,46,G,"Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos de papel y cartón",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466110,46,G,Venta al por mayor de combustibles y lubricantes para automotores,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461093,46,G,"Venta al por mayor en comisión o consignación de minerales, metales y productos químicos industriales",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464114,46,G,Venta al por mayor de tapices y alfombras de materiales textiles,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461031,46,G,Operaciones de intermediación de carne - consignatario directo -,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465610,46,G,Venta al por mayor de muebles e instalaciones para oficinas,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463154,46,G,"Venta al por mayor de café, té, yerba mate y otras infusiones y especias y condimentos (Incluye la venta de sal)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464930,46,G,Venta al por mayor de juguetes (Incluye artículos de cotillón),Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+465220,46,G,Venta al por mayor de componentes electrónicos,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464222,46,G,Venta al por mayor de envases de papel y cartón,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461095,46,G,"Venta al por mayor en comisión o consignación de papel, cartón, libros, revistas, diarios, materiales de embalaje y artículos de librería",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461094,46,G,"Venta al por mayor en comisión o consignación de  maquinaria, equipo profesional industrial y comercial, embarcaciones y aeronaves",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+462131,46,G,"Venta al por mayor de cereales (incluye arroz), oleaginosas y forrajeras excepto semillas",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461011,46,G,"Venta al por mayor en comisión o consignación de cereales (incluye arroz), oleaginosas y forrajeras excepto semillas",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466931,46,G,Venta al por mayor de artículos de plástico,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+462209,46,G,Venta al por mayor de materias primas pecuarias n.c.p. incluso animales vivos (Incluye pieles y cueros en bruto),Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463159,46,G,Venta al por mayor de productos y subproductos de molinería n.c.p.,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464610,46,G,"Venta al por mayor de muebles excepto de oficina, artículos de mimbre y corcho, colchones y somieres",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+463212,46,G,Venta al por mayor de bebidas espiritosas,Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+464130,46,G,"Venta al por mayor de calzado excepto el ortopédico (Incluye venta de calzado de cuero, tela, plástico, goma, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466910,46,G,"Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos textiles",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466370,46,G,"Venta al por mayor de papeles para pared, revestimiento para pisos de goma, plástico y textiles,  y artículos similares para la decoración",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+461039,46,G,"Venta al por mayor en comisión o consignación de alimentos, bebidas y tabaco n.c.p.",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+466940,46,G,"Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos metálicos (Incluye chatarra, viruta de metales diversos, etc.)",Comercio al por mayor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+471110,47,G,Venta al por menor en hipermercados,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+471190,47,G,"Venta al por menor en kioscos, polirrubros y comercios no especializados n.c.p.",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+479101,47,G,Venta al por menor por internet,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475250,47,G,Venta al por menor de artículos para plomería e instalación de gas,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+472120,47,G,Venta al por menor de productos de almacén y dietética,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477430,47,G,Venta al por menor de bijouterie y fantasía,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+472200,47,G,Venta al por menor de bebidas en comercios especializados,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477110,47,G,"Venta al por menor de ropa interior, medias, prendas para dormir y para la playa (Incluye corsetería, lencería, camisetas, medias excepto ortopédicas, pijamas, camisones y saltos de cama, salidas de baño, trajes de baño, etc.)",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+472130,47,G,"Venta al por menor de carnes rojas, menudencias y chacinados frescos",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+472150,47,G,Venta al por menor de pescados y  productos de la pesca,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477490,47,G,"Venta al por menor de artículos nuevos n.c.p. (Incluye la venta realizada en casas de regalos, de artesanías, pelucas,  de artículos religiosos -santerías-, recarga de matafuegos,  etc.) ",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475420,47,G,Venta al por menor de colchones y somieres,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+472111,47,G,Venta al por menor de productos lácteos,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+476310,47,G,"Venta al por menor de equipos  y artículos deportivos (Incluye la venta y reparación  de bicicletas, la venta  de aparatos de gimnasia y de equipos de camping, etc.)  ",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+479109,47,G,"Venta al por menor por correo, televisión y otros medios de comunicación n.c.p.",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477820,47,G,"Venta al por menor de libros, revistas y similares usados",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475120,47,G,"Venta al por menor de confecciones para el hogar (Incluye la venta al por menor de sábanas, toallas, mantelería, cortinas confeccionadas, colchas, cubrecamas, etc.)",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477460,47,G,"Venta al por menor de fuel oil, gas en garrafas, carbón y leña (No incluye las estaciones de servicios que se clasifican en 473000)",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477310,47,G,Venta al por menor de productos farmacéuticos y de herboristería,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+474020,47,G,"Venta al por menor de aparatos de telefonía y comunicación (Incluye teléfonos, celulares, fax, etc)",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477330,47,G,"Venta al por menor de instrumental médico y odontológico y artículos ortopédicos (Incluye venta de vaporizadores, nebulizadores, masajeadores, termómetros, prótesis, muletas, plantillas, calzado ortopédico y otros artículos similares de uso personal o doméstico)",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477470,47,G,"Venta al por menor de productos veterinarios, animales domésticos y alimento balanceado para mascotas",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477220,47,G,"Venta al por menor de calzado, excepto el ortopédico y el deportivo (No incluye almacenes de suelas 464142)",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+472112,47,G,Venta al por menor de fiambres y embutidos,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475210,47,G,"Venta al por menor de aberturas (Incluye puertas, ventanas, cortinas de enrollar de PVC, madera, aluminio, puertas corredizas, frentes de placards, etc.)",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477210,47,G,"Venta al por menor de artículos de talabartería y artículos regionales (Incluye venta de artículos regionales de cuero, plata, alpaca y similares)",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477120,47,G,Venta al por menor de uniformes escolares y guardapolvos,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475430,47,G,Venta al por menor de artículos de iluminación,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+472300,47,G,Venta al por menor de tabaco en comercios especializados,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477810,47,G,Venta al por menor de muebles usados,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+476320,47,G,"Venta al por menor de armas, artículos para la caza y pesca",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+472140,47,G,"Venta al por menor de huevos, carne de aves y  productos de granja y de la caza",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+479900,47,G,"Venta al por menor no realizada en establecimientos  n.c.p. (Incluye venta mediante máquinas expendedoras, vendedores ambulantes y vendedores a domicilio)",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475410,47,G,"Venta al por menor de muebles para el hogar, artículos de mimbre y corcho",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475300,47,G,"Venta al por menor  de electrodomésticos, artefactos para el hogar y equipos de audio y video",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+473000,47,G,Venta al por menor de combustible para vehículos automotores y motocicletas (Incluye la venta al por menor de productos lubricantes y refrigerantes),Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477440,47,G,"Venta al por menor de flores, plantas, semillas, abonos, fertilizantes y otros productos de vivero ",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475230,47,G,Venta al por menor de artículos de ferretería y materiales eléctricos,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477420,47,G,Venta al por menor de artículos de relojería y joyería,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477450,47,G,Venta al por menor de materiales y productos de limpieza,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+476200,47,G,Venta al por menor de CD's y DVD's de audio y video grabados (Incluye CD's y DVD's vírgenes),Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+476110,47,G,Venta al por menor de libros,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475290,47,G,Venta al por menor de materiales de construcción n.c.p.,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477890,47,G,Venta al por menor de artículos usados n.c.p. excepto+E1155 automotores y motocicletas,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475440,47,G,"Venta al por menor de artículos de bazar y menaje (Incluye venta al por menor de vajilla, cubiertos, etc.)",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475490,47,G,"Venta al por menor de artículos para el hogar n.c.p. (Incluye perchas, marcos, cuadros, etc.)",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475240,47,G,Venta al por menor de pinturas y productos conexos,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+472172,47,G,"Venta al por menor de bombones, golosinas y demás productos de confitería",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+476400,47,G,"Venta al por menor de juguetes, artículos de cotillón y juegos de mesa",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+476120,47,G,Venta al por menor de diarios y revistas,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475220,47,G,"Venta al por menor de maderas y artículos de madera  y corcho, excepto muebles",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475190,47,G,"Venta al por menor de artículos textiles n.c.p. excepto prendas de vestir (Incluye la venta al por menor de tapices, alfombras,  etc.)",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475110,47,G,"Venta al por menor de hilados, tejidos y artículos de mercería (Incluye mercerías, sederías, comercios de venta de lanas y otros hilados, etc.) ",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+474010,47,G,"Venta al por menor de equipos, periféricos,  accesorios y programas informáticos",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477130,47,G,Venta al por menor de indumentaria para bebés y niños,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477480,47,G,Venta al por menor de obras de arte,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+472190,47,G,"Venta al por menor de productos alimenticios n.c.p., en comercios especializados",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+471900,47,G,"Venta al por menor en comercios no especializados, sin predominio de productos alimenticios y bebidas",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475270,47,G,"Venta al por menor de papeles para pared, revestimientos para pisos y artículos similares para la decoración",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+472171,47,G,Venta al por menor de pan y productos de panadería,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477140,47,G,Venta al por menor de indumentaria deportiva,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+471130,47,G,"Venta al por menor en minimercados (Incluye mercaditos, autoservicios y establecimientos similares que vendan carnes, verduras y demás productos alimenticios en forma conjunta)",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+471120,47,G,Venta al por menor en supermercados,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477150,47,G,Venta al por menor de prendas de cuero,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477190,47,G,Venta al por menor de prendas y accesorios de vestir n.c.p.,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477840,47,G,"Venta al por menor de oro, monedas, sellos y similares (Incluye la  venta de monedas de colección, estampillas, etc.) ",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+478090,47,G,Venta al por menor de productos n.c.p. en puestos móviles y mercados,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477290,47,G,"Venta al por menor de artículos de marroquinería, paraguas y similares n.c.p.",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+476130,47,G,"Venta al por menor de papel, cartón, materiales de embalaje y artículos de librería ",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477830,47,G,Venta al por menor de antigüedades (Incluye venta de antigüedades en remates),Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477230,47,G,Venta al por menor de calzado deportivo,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477320,47,G,"Venta al por menor de productos cosméticos, de tocador y de perfumería",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+475260,47,G,"Venta al por menor de cristales, espejos, mamparas y cerramientos",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+477410,47,G,Venta al por menor de artículos de óptica y fotografía,Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+472160,47,G,"Venta al por menor de frutas, legumbres y hortalizas frescas",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+478010,47,G,"Venta al por menor de alimentos, bebidas y tabaco en puestos móviles y mercados",Comercio al por menor excepto autos y motos,COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS
+492230,49,H,Servicio de transporte automotor de animales,Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+491120,49,H,Servicio de transporte ferroviario interurbano de pasajeros,Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+493200,49,H,Servicio de transporte por gasoductos (Incluye estaciones de bombeo y compresión),Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492130,49,H,Servicio de transporte escolar (Incluye el servicio de transporte para colonias de vacaciones y clubes),Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492221,49,H,Servicio de transporte automotor de cereales,Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492280,49,H,Servicio de transporte automotor urbano de carga n.c.p. (Incluye el transporte realizado por fleteros y distribuidores dentro del égido urbano),Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492229,49,H,Servicio de transporte automotor de mercaderías a granel n.c.p.,Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+491110,49,H,Servicio de transporte ferroviario urbano y suburbano de pasajeros (Incluye el servicio de subterráneo y de premetro),Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+491200,49,H,Servicio de transporte ferroviario de cargas,Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492150,49,H,"Servicio de transporte automotor interurbano regular de pasajeros, E1203excepto transporte internacional (Incluye los llamados servicios de larga distancia)",Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492110,49,H,Servicio de transporte automotor urbano y suburbano regular de pasajeros,Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492170,49,H,Servicio de transporte automotor internacional de pasajeros,Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492180,49,H,Servicio de transporte automotor turístico de pasajeros,Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492120,49,H,"Servicios de transporte automotor de pasajeros mediante taxis y remises, alquiler de autos con chofer (Incluye los radiotaxis)",Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492190,49,H,Servicio de transporte automotor de pasajeros n.c.p.,Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492160,49,H,Servicio de transporte automotor interurbano no regular de pasajeros,Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+493120,49,H,Servicio de transporte por poliductos y fueloductos,Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492290,49,H,Servicio de transporte automotor de cargas n.c.p. (Incluye  servicios de transporte de carga refrigerada y transporte pesado),Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+493110,49,H,Servicio de transporte por oleoductos (Incluye estaciones de bombeo y compresión),Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492140,49,H,"Servicio de transporte automotor urbano y suburbano no regular de pasajeros de oferta libre,  excepto mediante taxis y remises, alquiler de autos con chofer y transporte escolar (Incluye servicios urbanos especiales como charters, servicios contratados, servicios para ámbito portuario o aeroportuario, servicio de hipódromos y espectáculos deportivos y culturales)",Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492250,49,H,Servicio de transporte automotor de mercaderías y sustancias peligrosas,Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492210,49,H,Servicios de mudanza (Incluye servicios de guardamuebles),Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+492240,49,H,Servicio de transporte por camión cisterna,Transporte terrestre y por tuberías,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+502200,50,H,Servicio de transporte fluvial y lacustre de carga,Transporte acuático,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+501100,50,H,Servicio de transporte marítimo de pasajeros,Transporte acuático,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+501200,50,H,Servicio de transporte marítimo de carga,Transporte acuático,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+502101,50,H,Servicio de transporte fluvial y lacustre de pasajeros,Transporte acuático,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+512000,51,H,Servicio de transporte aéreo de cargas,Transporte aéreo,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+511000,51,H,Servicio de transporte aéreo de pasajeros,Transporte aéreo,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+523032,52,H,Servicios de operadores logísticos seguros (OLS) en el ámbito aduanero,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+521030,52,H,Servicios de manipulación de carga en el ámbito aéreo,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+524110,52,H,"Servicios de explotación de infraestructura para el transporte terrestre, peajes y otros derechos",Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+524230,52,H,"Servicios para la navegación (Incluye servicios de practicaje y pilotaje, atraque y salvamento)",Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+524290,52,H,Servicios complementarios para el transporte marítimo n.c.p. (Incluye explotación de servicios de terminales como puertos y muelles),Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+523039,52,H,Servicios de operadores logísticos n.c.p.,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+522020,52,H,Servicios de almacenamiento y depósito en cámaras frigoríficas,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+523020,52,H,Servicios de agencias marítimas para el transporte de mercaderías,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+522010,52,H,Servicios de almacenamiento y depósito en silos,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+521010,52,H,Servicios de manipulación de carga en el ámbito terrestre,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+524120,52,H,Servicios  de playas de estacionamiento y garajes,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+523031,52,H,Servicios de gestión de agentes de transporte aduanero excepto agencias marítimas,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+524330,52,H,"Servicios para la aeronavegación (Incluye remolque de aeronaves y actividades de control de tráfico aéreo, etc.)",Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+522092,52,H,Servicios de gestión de depósitos fiscales,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+523011,52,H,Servicios de gestión aduanera realizados por despachantes de aduana,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+524190,52,H,Servicios complementarios para el transporte terrestre n.c.p. (Incluye servicios de mantenimiento de material ferroviario),Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+524220,52,H,Servicios de guarderías náuticas,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+521020,52,H,Servicios de manipulación de carga en el ámbito portuario,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+522091,52,H,Servicios de usuarios directos de zona franca,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+523090,52,H,"Servicios de gestión y logística para el transporte de mercaderías n.c.p. (Incluye las actividades de empresas empaquetadoras para comercio exterior, alquiler de contenedores, etc.)",Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+524210,52,H,"Servicios de explotación de infraestructura para el transporte marítimo, derechos de puerto",Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+524130,52,H,Servicios de estaciones terminales de ómnibus y ferroviárias,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+524320,52,H,Servicios de hangares y estacionamiento de aeronaves,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+524390,52,H,Servicios complementarios para el transporte aéreo n.c.p. (Incluye servicios de prevención y extinción de incendios),Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+524310,52,H,"Servicios de explotación de infraestructura para el transporte aéreo, derechos de aeropuerto",Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+522099,52,H,Servicios de almacenamiento y depósito n.c.p.,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+523019,52,H,Servicios de gestión aduanera para el transporte de mercaderías n.c.p.,Almacenamiento y actividades de apoyo al transporte,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+530010,53,H,Servicio de correo postal (Incluye las actividades de correo postal sujetas a la obligación de servicio universal),Servicio de correo y mensajería,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+530090,53,H,"Servicios de mensajerías (Incluye servicios puerta a puerta de correo y mensajería, comisionistas de encomiendas, transporte de documentos  realizados por empresas no sujetas a la obligación de servicio universal)",Servicio de correo y mensajería,SERVICIO DE TRANSPORTE Y ALMACENAMIENTO
+551023,55,I,"Servicios de alojamiento en hoteles, hosterías y residenciales similares, excepto por hora, que no incluyen servicio de restaurante al público",Servicios de alojamiento,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+551022,55,I,"Servicios de alojamiento en hoteles, hosterías y residenciales similares, excepto por hora, que incluyen servicio de restaurante al público",Servicios de alojamiento,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+551021,55,I,Servicios de alojamiento en pensiones,Servicios de alojamiento,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+551090,55,I,"Servicios de hospedaje temporal n.c.p. (Incluye hospedaje en estancias, residencias para estudiantes y albergues juveniles, apartamentos turísticos, etc.)",Servicios de alojamiento,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+551010,55,I,Servicios de alojamiento por hora,Servicios de alojamiento,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+552000,55,I,Servicios de alojamiento en campings (Incluye refugios de montaña),Servicios de alojamiento,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+562091,56,I,Servicios de cantinas con atención exclusiva  a los empleados o estudiantes dentro de empresas o establecimientos educativos (Incluye cantinas deportivas),Servicios de expendio de alimentos y bebidas,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+561014,56,I,"Servicios de expendio de bebidas en bares (Incluye: bares, cervecerías, pubs, cafeterías)",Servicios de expendio de alimentos y bebidas,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+561020,56,I,"Servicios de preparación de comidas para llevar (Incluye rotiserías, casas de empanadas, pizzerías sin consumo en el local) ",Servicios de expendio de alimentos y bebidas,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+561011,56,I,Servicios de restaurantes y cantinas sin espectáculo,Servicios de expendio de alimentos y bebidas,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+562099,56,I,Servicios de comidas n.c.p.,Servicios de expendio de alimentos y bebidas,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+561040,56,I,Servicios de preparación de comidas realizadas por/para vendedores ambulantes.,Servicios de expendio de alimentos y bebidas,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+561030,56,I,Servicio de expendio de helados,Servicios de expendio de alimentos y bebidas,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+561013,56,I,"Servicios de """"fast food"""" y locales de venta de comidas y bebidas al paso (Incluye el expendio de hamburguesas, productos lácteos excepto helados, etc.) ",Servicios de expendio de alimentos y bebidas,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+561019,56,I,Servicios de expendio de comidas y bebidas en establecimientos con servicio de mesa y/o en mostrador n.c.p.,Servicios de expendio de alimentos y bebidas,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+561012,56,I,Servicios de restaurantes y cantinas con espectáculo,Servicios de expendio de alimentos y bebidas,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+562010,56,I,"Servicios de preparación de comidas para empresas y eventos (Incluye el servicio de catering, el suministro de comidas para banquetes, bodas, fiestas y otras celebraciones, comidas para hospital, etc.) ",Servicios de expendio de alimentos y bebidas,SERVICIOS DE ALOJAMIENTO Y SERVICIOS DE COMIDA
+581300,58,J,"Edición de periódicos, revistas y publicaciones periódicas",Edición,INFORMACIÓN Y COMUNICACIONES
+581200,58,J,Edición de directorios y listas de correos,Edición,INFORMACIÓN Y COMUNICACIONES
+581900,58,J,Edición n.c.p.,Edición,INFORMACIÓN Y COMUNICACIONES
+581100,58,J,"Edición de libros, folletos, y otras publicaciones",Edición,INFORMACIÓN Y COMUNICACIONES
+591200,59,J,Distribución de filmes y videocintas,Servicios audiovisuales,INFORMACIÓN Y COMUNICACIONES
+592000,59,J,Servicios de grabación de sonido y edición de música,Servicios audiovisuales,INFORMACIÓN Y COMUNICACIONES
+591120,59,J,Postproducción de filmes y videocintas,Servicios audiovisuales,INFORMACIÓN Y COMUNICACIONES
+591300,59,J,Exhibición de filmes y videocintas,Servicios audiovisuales,INFORMACIÓN Y COMUNICACIONES
+591110,59,J,Producción de filmes y videocintas,Servicios audiovisuales,INFORMACIÓN Y COMUNICACIONES
+601000,60,J,Emisión y retransmisión de radio,Programación y transmisiones de TV y radio,INFORMACIÓN Y COMUNICACIONES
+602310,60,J,Emisión de señales de televisión por suscripción,Programación y transmisiones de TV y radio,INFORMACIÓN Y COMUNICACIONES
+602320,60,J,Producción de programas de televisión,Programación y transmisiones de TV y radio,INFORMACIÓN Y COMUNICACIONES
+602100,60,J,Emisión y retransmisión  de televisión abierta,Programación y transmisiones de TV y radio,INFORMACIÓN Y COMUNICACIONES
+602900,60,J,Servicios de televisión n.c.p,Programación y transmisiones de TV y radio,INFORMACIÓN Y COMUNICACIONES
+602200,60,J,Operadores de televisión por suscripción.,Programación y transmisiones de TV y radio,INFORMACIÓN Y COMUNICACIONES
+611010,61,J,Servicios de locutorios,Telecomunicaciones,INFORMACIÓN Y COMUNICACIONES
+614010,61,J,Servicios de proveedores de acceso a internet,Telecomunicaciones,INFORMACIÓN Y COMUNICACIONES
+612000,61,J,Servicios de telefonía móvil,Telecomunicaciones,INFORMACIÓN Y COMUNICACIONES
+614090,61,J,Servicios de telecomunicación vía internet n.c.p.,Telecomunicaciones,INFORMACIÓN Y COMUNICACIONES
+619000,61,J,Servicios de telecomunicaciones n.c.p. (Incluye el servicio de pagers),Telecomunicaciones,INFORMACIÓN Y COMUNICACIONES
+611090,61,J,"Servicios de telefonía fija, excepto locutorios",Telecomunicaciones,INFORMACIÓN Y COMUNICACIONES
+613000,61,J,"Servicios de telecomunicaciones vía satélite, excepto servicios de transmisión de televisión",Telecomunicaciones,INFORMACIÓN Y COMUNICACIONES
+620900,62,J,Servicios de informática n.c.p.,"Servicios de programación, consultoría informática y actividades conexas",INFORMACIÓN Y COMUNICACIONES
+620100,62,J,Servicios de consultores en informática y suministros de programas de informática,"Servicios de programación, consultoría informática y actividades conexas",INFORMACIÓN Y COMUNICACIONES
+620200,62,J,Servicios de consultores en equipo de informática,"Servicios de programación, consultoría informática y actividades conexas",INFORMACIÓN Y COMUNICACIONES
+620300,62,J,Servicios de consultores en tecnología de la información,"Servicios de programación, consultoría informática y actividades conexas",INFORMACIÓN Y COMUNICACIONES
+631110,63,J,Procesamiento de datos,Actividades de procesamiento de información,INFORMACIÓN Y COMUNICACIONES
+631190,63,J,Actividades conexas al procesamiento y hospedaje de datos n.c.p.,Actividades de procesamiento de información,INFORMACIÓN Y COMUNICACIONES
+639100,63,J,Agencias de noticias,Actividades de procesamiento de información,INFORMACIÓN Y COMUNICACIONES
+631200,63,J,Portales web,Actividades de procesamiento de información,INFORMACIÓN Y COMUNICACIONES
+639900,63,J,Servicios de información n.c.p.,Actividades de procesamiento de información,INFORMACIÓN Y COMUNICACIONES
+631120,63,J,Hospedaje de datos,Actividades de procesamiento de información,INFORMACIÓN Y COMUNICACIONES
+641910,64,K,Servicios de la banca mayorista,Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+641930,64,K,Servicios de la banca minorista,Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+642000,64,K,Servicios de sociedades de cartera,Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+641942,64,K,Servicios de intermediación financiera realizada por sociedades de ahorro y préstamo para la vivienda y otros inmuebles,Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+649220,64,K,Servicios de entidades de tarjeta de compra y/o crédito,Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+649999,64,K,"Servicios de financiación y actividades financieras n.c.p. (Incluye actividades de inversión en acciones, títulos, la actividad de corredores de bolsa, securitización, mutuales financieras, etc.), (No incluye actividades financieras relacionadas con el otorgamiento de créditos)",Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+649210,64,K,Actividades de crédito para financiar otras actividades económicas,Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+641941,64,K,Servicios de intermediación financiera realizada por las compañías financieras,Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+649100,64,K,"Arrendamiento financiero, leasing",Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+641100,64,K,Servicios de la banca central (Incluye las actividades del Banco Central de la República Argentina),Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+641943,64,K,Servicios de intermediación financiera realizada por cajas de crédito,Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+649910,64,K,"Servicios de agentes de mercado abierto """"puros"""" (Incluye las transacciones extrabursátiles - por cuenta propia -)",Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+643001,64,K,Servicios de fideicomisos,Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+643009,64,K,Fondos y sociedades de inversión y entidades financieras similares n.c.p.,Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+649290,64,K,"Servicios de crédito n.c.p. (Incluye el otorgamiento de préstamos por entidades que no reciben depósitos y que están fuera del sistema bancario y cuyo destino es financiar el consumo, la vivienda u otros bienes)",Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+641920,64,K,Servicios de la banca de inversión,Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+649991,64,K,"Servicios de socios inversores en sociedades regulares según Ley 19.550 - S.R.L., S.C.A, etc, excepto socios inversores en sociedades anónimas incluidos en 649999 (No incluye los servicios de socios miembros  que desarrollan actividades de asesoramiento, dirección y gestión empresarial de sociedades regulares según Ley 19.550: 702091 y 702092) ",Servicios financieros (excepto seguros y pensiones),INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+653000,65,K,"Administración de fondos de pensiones, excepto la seguridad social obligatoria","Servicios de seguros, reaseguros y pensiones",INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+651310,65,K,Obras Sociales,"Servicios de seguros, reaseguros y pensiones",INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+651320,65,K,Servicios de cajas de previsión social pertenecientes a asociaciones profesionales,"Servicios de seguros, reaseguros y pensiones",INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+651220,65,K,Servicios de seguros patrimoniales excepto los de las aseguradoras de riesgo de trabajo (ART),"Servicios de seguros, reaseguros y pensiones",INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+651110,65,K,Servicios de seguros de salud (Incluye medicina prepaga y mutuales de salud),"Servicios de seguros, reaseguros y pensiones",INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+651120,65,K,"Servicios de seguros de vida (Incluye los seguros de vida, retiro y sepelio)","Servicios de seguros, reaseguros y pensiones",INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+651130,65,K,Servicios de seguros personales excepto  los de salud y de vida (Incluye los seguros para viajes),"Servicios de seguros, reaseguros y pensiones",INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+651210,65,K,Servicios de aseguradoras de riesgo de trabajo (ART),"Servicios de seguros, reaseguros y pensiones",INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+652000,65,K,Reaseguros,"Servicios de seguros, reaseguros y pensiones",INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+663000,66,K,Servicios de gestión de fondos a cambio de una retribución o por contrata,Servicios auxiliares de la actividad financiera y de seguros,INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+661131,66,K,Servicios de bolsas de comercio,Servicios auxiliares de la actividad financiera y de seguros,INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+661999,66,K,Servicios auxiliares a la intermediación financiera n.c.p. (Incluye asesoría financiera),Servicios auxiliares de la actividad financiera y de seguros,INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+661910,66,K,Servicios bursátiles de mediación o por cuenta de terceros (Incluye la actividad de agentes y sociedades de bolsa),Servicios auxiliares de la actividad financiera y de seguros,INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+662010,66,K,Servicios de evaluación de riesgos y daños,Servicios auxiliares de la actividad financiera y de seguros,INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+661121,66,K,Servicios de mercados a término,Servicios auxiliares de la actividad financiera y de seguros,INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+662090,66,K,Servicios auxiliares a los servicios de seguros n.c.p.,Servicios auxiliares de la actividad financiera y de seguros,INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+661920,66,K,Servicios de casas y agencias de cambio,Servicios auxiliares de la actividad financiera y de seguros,INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+661992,66,K,Servicios de administradoras de vales y tickets,Servicios auxiliares de la actividad financiera y de seguros,INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+661991,66,K,Servicios de envio y recepción de fondos desde y hacia el exterior,Servicios auxiliares de la actividad financiera y de seguros,INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+662020,66,K,Servicios de productores  y asesores de seguros,Servicios auxiliares de la actividad financiera y de seguros,INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+661111,66,K,Servicios de mercados y cajas de valores,Servicios auxiliares de la actividad financiera y de seguros,INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+661930,66,K,Servicios de sociedades calificadoras de riesgos financieros,Servicios auxiliares de la actividad financiera y de seguros,INTERMEDIACIÓN FINANCIERA Y SERVICIOS DE SEGUROS
+682010,68,L,Servicios de administración de consorcios de edificios,Servicios inmobiliarios,SERVICIOS INMOBILIARIOS
+681020,68,L,Servicios de alquiler  de consultorios médicos,Servicios inmobiliarios,SERVICIOS INMOBILIARIOS
+681098,68,L,"Servicios inmobiliarios realizados por cuenta propia, con bienes urbanos propios o arrendados n.c.p.",Servicios inmobiliarios,SERVICIOS INMOBILIARIOS
+681099,68,L,"Servicios inmobiliarios realizados por cuenta propia, con bienes rurales propios o arrendados n.c.p.",Servicios inmobiliarios,SERVICIOS INMOBILIARIOS
+681010,68,L,"Servicios de alquiler y explotación de inmuebles para fiestas, convenciones y otros eventos similares ",Servicios inmobiliarios,SERVICIOS INMOBILIARIOS
+682091,68,L,Servicios prestados por inmobiliarias,Servicios inmobiliarios,SERVICIOS INMOBILIARIOS
+682099,68,L,"Servicios inmobiliarios realizados a cambio de una retribución o por contrata n.c.p. (Incluye compra, venta, alquiler, remate, tasación, administración de bienes, etc., realizados a cambio de una retribución o por contrata, y la actividad de administradores, martilleros, rematadores, comisionistas, etc.)",Servicios inmobiliarios,SERVICIOS INMOBILIARIOS
+691002,69,M,Servicios  notariales,Servicios jurídicos y de contabilidad,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+691001,69,M,Servicios jurídicos,Servicios jurídicos y de contabilidad,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+692000,69,M,"Servicios de contabilidad, auditoría y asesoría fiscal",Servicios jurídicos y de contabilidad,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+702099,70,M,"Servicios de asesoramiento, dirección y gestión empresarial n.c.p.",Servicios y asesoramiento de dirección y gestión empresarial,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+702010,70,M,"Servicios de gerenciamiento de empresas e instituciones de salud, servicios de auditoria y medicina legal, servicio de asesoramiento farmacéutico ",Servicios y asesoramiento de dirección y gestión empresarial,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+702091,70,M,"Servicios de asesoramiento, dirección y gestión empresarial realizados por integrantes de los órganos de administración y/o fiscalización en sociedades anónimas",Servicios y asesoramiento de dirección y gestión empresarial,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+702092,70,M,"Servicios de asesoramiento, dirección y gestión empresarial realizados por integrantes de cuerpos de dirección en sociedades excepto las anónimas",Servicios y asesoramiento de dirección y gestión empresarial,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+712000,71,M,"Ensayos y análisis técnicos (Incluye inspección técnica de vehículos, laboratorios de control de calidad, servicios de peritos calígrafos, servicios de bromatología)",Servicios de arquitectura e ingeniería,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+711001,71,M,"Servicios relacionados con la construcción (Incluye los servicios prestados por ingenieros, arquitectos y técnicos)",Servicios de arquitectura e ingeniería,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+711003,71,M,Servicios relacionados con la electrónica y las comunicaciones,Servicios de arquitectura e ingeniería,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+711002,71,M,Servicios geológicos y de prospección,Servicios de arquitectura e ingeniería,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+711009,71,M,Servicios de arquitectura e ingeniería y servicios conexos de asesoramiento técnico n.c.p.,Servicios de arquitectura e ingeniería,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+721020,72,M,Investigación  y desarrollo experimental en el campo de las ciencias médicas,Investigación y desarrollo científico,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+721030,72,M,Investigación  y desarrollo experimental en el campo de las ciencias agropecuarias,Investigación y desarrollo científico,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+721010,72,M,Investigación  y desarrollo experimental en el campo de la ingeniería y la tecnología,Investigación y desarrollo científico,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+722020,72,M,Investigación  y desarrollo experimental en el campo de las ciencias humanas,Investigación y desarrollo científico,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+721090,72,M,Investigación y desarrollo experimental en el campo de las ciencias exactas y naturales n.c.p.,Investigación y desarrollo científico,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+722010,72,M,Investigación  y desarrollo experimental en el campo de las ciencias sociales,Investigación y desarrollo científico,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+731001,73,M,Servicios de comercialización de tiempo y espacio publicitario,Servicios de publicidad e investigación de mercado,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+732000,73,M,"Estudio de mercado, realización de encuestas de opinión pública",Servicios de publicidad e investigación de mercado,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+731009,73,M,Servicios de publicidad n.c.p.,Servicios de publicidad e investigación de mercado,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+749002,74,M,Servicios de representación e intermediación de artistas y modelos,"Otras actividades profesionales, científicas y técnicas","SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+749003,74,M,Servicios de representación e intermediación de deportistas profesionales,"Otras actividades profesionales, científicas y técnicas","SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+749001,74,M,Servicios de traducción e interpretación,"Otras actividades profesionales, científicas y técnicas","SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+741000,74,M,"Servicios de diseño especializado (Incluye diseño de indumentaria, diseño gráfico, actividades de decoradores, etc.)","Otras actividades profesionales, científicas y técnicas","SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+742000,74,M,Servicios de fotografía,"Otras actividades profesionales, científicas y técnicas","SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+749009,74,M,"Actividades profesionales, científicas y técnicas n.c.p.","Otras actividades profesionales, científicas y técnicas","SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+750000,75,M,Servicios veterinarios,Servicios veterinarios,"SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS"
+771210,77,N,"Alquiler de equipo de transporte para vía acuática, sin operarios ni tripulación",Alquiler y arrendamiento,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+773010,77,N,"Alquiler de maquinaria y equipo agropecuario y forestal, sin operarios",Alquiler y arrendamiento,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+773040,77,N,"Alquiler de maquinaria y equipo de oficina, incluso computadoras",Alquiler y arrendamiento,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+771190,77,N,"Alquiler de vehículos automotores n.c.p., sin conductor ni operarios (Incluye: camiones, remolques, etc.)",Alquiler y arrendamiento,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+773020,77,N,"Alquiler de maquinaria y equipo para la minería, sin operarios",Alquiler y arrendamiento,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+771220,77,N,"Alquiler de equipo de transporte para vía aérea, sin operarios ni tripulación",Alquiler y arrendamiento,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+772010,77,N,Alquiler de videos y video juegos (Incluye la actividad de los videoclubes),Alquiler y arrendamiento,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+772091,77,N,Alquiler de prendas de vestir,Alquiler y arrendamiento,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+772099,77,N,Alquiler de efectos personales y enseres domésticos n.c.p. (Incluye alquiler de artículos deportivos),Alquiler y arrendamiento,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+773090,77,N,"Alquiler de maquinaria y equipo n.c.p., sin personal",Alquiler y arrendamiento,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+771290,77,N,"Alquiler de equipo de transporte n.c.p. sin conductor ni operarios (Incluye: equipo ferroviario, motocicletas)",Alquiler y arrendamiento,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+773030,77,N,"Alquiler de maquinaria y equipo de construcción e ingeniería civil, sin operarios (Incluye el alquiler de andamios sin montaje ni desmantelamiento)",Alquiler y arrendamiento,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+774000,77,N,Arrendamiento y gestión de bienes intangibles no financieros,Alquiler y arrendamiento,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+771110,77,N,Alquiler de automóviles sin conductor,Alquiler y arrendamiento,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+780000,78,N,"Obtención y dotación de personal (Incluye las actividades vinculadas con la búsqueda, selección y colocación de personal, la actividad de casting de actores, etc.)",Servicios de obtención y dotación de personal,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+791909,79,N,Servicios complementarios de apoyo turístico n.c.p.,"Agencias de viajes, servicios de reservas y actividades conexas",ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+791901,79,N,Servicios de turismo aventura,"Agencias de viajes, servicios de reservas y actividades conexas",ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+791200,79,N,Servicios mayoristas de agencias de viajes,"Agencias de viajes, servicios de reservas y actividades conexas",ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+791100,79,N,Servicios minoristas de agencias de viajes,"Agencias de viajes, servicios de reservas y actividades conexas",ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+801090,80,N,Servicios de seguridad e investigación n.c.p.,Actividades de investigación y seguridad,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+801020,80,N,Servicios de sistemas de seguridad,Actividades de investigación y seguridad,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+801010,80,N,Servicios de transporte de caudales y objetos de valor,Actividades de investigación y seguridad,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+812090,81,N,Servicios de limpieza n.c.p.,Servicios a edificios y actividades de jardinería,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+812010,81,N,Servicios de limpieza general de edificios,Servicios a edificios y actividades de jardinería,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+812020,81,N,Servicios de desinfección y exterminio de plagas en el ámbito urbano,Servicios a edificios y actividades de jardinería,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+811000,81,N,Servicio combinado de apoyo a edificios,Servicios a edificios y actividades de jardinería,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+813000,81,N,Servicios de jardinería y mantenimiento de espacios verdes,Servicios a edificios y actividades de jardinería,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+829100,82,N,Servicios de agencias de cobro y calificación crediticia,Actividades administrativas y de apoyo a oficinas y empresas,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+822000,82,N,Servicios de call center,Actividades administrativas y de apoyo a oficinas y empresas,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+821900,82,N,"Servicios de fotocopiado, preparación de documentos y otros servicios de apoyo de oficina",Actividades administrativas y de apoyo a oficinas y empresas,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+829200,82,N,Servicios de envase y empaque,Actividades administrativas y de apoyo a oficinas y empresas,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+823000,82,N,"Servicios de organización de convenciones y exposiciones comerciales, excepto culturales y deportivos",Actividades administrativas y de apoyo a oficinas y empresas,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+821100,82,N,Servicios combinados de gestión administrativa de oficinas,Actividades administrativas y de apoyo a oficinas y empresas,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+829900,82,N,Servicios empresariales n.c.p.,Actividades administrativas y de apoyo a oficinas y empresas,ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS DE APOYO
+841200,84,O,"Servicios para la regulación de las actividades sanitarias, educativas, culturales, y restantes servicios sociales, excepto seguridad social obligatoria (Incluye  la gestión administrativa de programas destinados a mejorar el bienestar de los ciudadanos) ","Administración pública, defensa y seguridad social","ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA"
+843000,84,O,"Servicios de la seguridad social obligatoria, excepto obras sociales (Incluye PAMI y ANSES)","Administración pública, defensa y seguridad social","ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA"
+841100,84,O,"Servicios generales de la Administración Pública (Incluye el desempeño de funciones ejecutivas y legislativas de administración por parte de las entidades de la administración central, regional y local, la administración y supervisión de asuntos fiscales, la aplicación del presupuesto y la gestión de los fondos públicos y la deuda pública, la gestión administrativa de servicios estadísticos y sociológicos y de planificación social y económica a distintos niveles de la administración)","Administración pública, defensa y seguridad social","ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA"
+842400,84,O,Servicios de justicia,"Administración pública, defensa y seguridad social","ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA"
+842200,84,O,Servicios de defensa,"Administración pública, defensa y seguridad social","ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA"
+842300,84,O,Servicios para el orden público y la seguridad,"Administración pública, defensa y seguridad social","ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA"
+842100,84,O,Servicios de asuntos exteriores,"Administración pública, defensa y seguridad social","ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA"
+841900,84,O,"Servicios auxiliares para los servicios generales de la Administración Pública (Incluye las actividades de servicios generales y de personal, la administración, dirección y apoyo de servicios generales, compras y suministros, etc. )","Administración pública, defensa y seguridad social","ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA"
+842500,84,O,Servicios de protección civil,"Administración pública, defensa y seguridad social","ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA"
+841300,84,O,"Servicios para la regulación de la actividad económica (Incluye la administración pública y la regulación de varios sectores económicos, la gestión administrativa de actividades de carácter laboral, la aplicación de políticas de desarrollo regional)","Administración pública, defensa y seguridad social","ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA"
+854920,85,P,Enseñanza de cursos relacionados con informática,Enseñanza,ENSEÑANZA
+854910,85,P,Enseñanza de idiomas,Enseñanza,ENSEÑANZA
+852100,85,P,Enseñanza secundaria de formación general,Enseñanza,ENSEÑANZA
+854950,85,P,"Enseñanza de gimnasia, deportes y actividades físicas",Enseñanza,ENSEÑANZA
+851010,85,P,Guarderías y jardines maternales,Enseñanza,ENSEÑANZA
+854960,85,P,Enseñanza artística,Enseñanza,ENSEÑANZA
+852200,85,P,Enseñanza secundaria de formación técnica y profesional,Enseñanza,ENSEÑANZA
+854940,85,P,Enseñanza especial y para discapacitados,Enseñanza,ENSEÑANZA
+854930,85,P,"Enseñanza para adultos, excepto discapacitados",Enseñanza,ENSEÑANZA
+854990,85,P,"Servicios de enseñanza n.c.p. (Incluye instrucción impartida mediante programas de radio, televisión, correspondencia y otros medios de comunicación, escuelas de manejo, actividades de enseñanza a domicilio y/o particulares, etc.)",Enseñanza,ENSEÑANZA
+853100,85,P,Enseñanza  terciaria,Enseñanza,ENSEÑANZA
+853300,85,P,Formación de posgrado,Enseñanza,ENSEÑANZA
+851020,85,P,"Enseñanza inicial, jardín de infantes y primaria",Enseñanza,ENSEÑANZA
+855000,85,P,Servicios de apoyo a la educación,Enseñanza,ENSEÑANZA
+853201,85,P,Enseñanza universitaria excepto formación de posgrado,Enseñanza,ENSEÑANZA
+864000,86,Q,Servicios de emergencias y traslados,Servicios de salud humana,SALUD HUMANA Y SERVICIOS SOCIALES
+863110,86,Q,"Servicios de prácticas de diagnóstico en laboratorios (Incluye análisis clínicos, bioquímica, anatomía patológica, laboratorio hematológico, etc.)",Servicios de salud humana,SALUD HUMANA Y SERVICIOS SOCIALES
+861010,86,Q,Servicios de internación excepto instituciones relacionadas con la salud mental,Servicios de salud humana,SALUD HUMANA Y SERVICIOS SOCIALES
+863120,86,Q,"Servicios de prácticas de diagnóstico por imágenes (Incluye radiología, ecografía, resonancia magnética, etc.)",Servicios de salud humana,SALUD HUMANA Y SERVICIOS SOCIALES
+863200,86,Q,"Servicios de tratamiento (Incluye hemodiálisis, cobaltoterapia, etc) ",Servicios de salud humana,SALUD HUMANA Y SERVICIOS SOCIALES
+862110,86,Q,"Servicios de  consulta médica (Incluye las actividades de establecimientos sin internación o cuyos servicios se desarrollen en unidades independientes a las de internación: consultorios médicos, servicios de medicina laboral)",Servicios de salud humana,SALUD HUMANA Y SERVICIOS SOCIALES
+869090,86,Q,"Servicios relacionados con la salud humana n.c.p. (Incluye servicios de psicólogos, fonoaudiólogos, servicios de enfermería, terapia ocupacional, bancos de sangre, de semen,etc.)",Servicios de salud humana,SALUD HUMANA Y SERVICIOS SOCIALES
+869010,86,Q,"Servicios de rehabilitación física (Incluye actividades de profesionales excepto médicos: kinesiólogos, fisiatras, etc.)",Servicios de salud humana,SALUD HUMANA Y SERVICIOS SOCIALES
+862200,86,Q,Servicios odontológicos,Servicios de salud humana,SALUD HUMANA Y SERVICIOS SOCIALES
+863190,86,Q,Servicios de prácticas de diagnóstico n.c.p.,Servicios de salud humana,SALUD HUMANA Y SERVICIOS SOCIALES
+862130,86,Q,"Servicios de atención médica en dispensarios, salitas, vacunatorios y otros locales de atención primaria de la salud",Servicios de salud humana,SALUD HUMANA Y SERVICIOS SOCIALES
+861020,86,Q,Servicios de internación en instituciones relacionadas con la salud mental,Servicios de salud humana,SALUD HUMANA Y SERVICIOS SOCIALES
+862120,86,Q,"Servicios de proveedores de atención médica domiciliaria (Incluye las actividades llevadas a cabo en domicilios de pacientes con alta precoz, y que ofrecen atención por módulo) ",Servicios de salud humana,SALUD HUMANA Y SERVICIOS SOCIALES
+863300,86,Q,"Servicio médico integrado de consulta, diagnóstico y tratamiento",Servicios de salud humana,SALUD HUMANA Y SERVICIOS SOCIALES
+870220,87,Q,Servicios de atención a personas minusválidas con alojamiento,Actividades de atención en instituciones,SALUD HUMANA Y SERVICIOS SOCIALES
+870990,87,Q,Servicios sociales con alojamiento n.c.p.,Actividades de atención en instituciones,SALUD HUMANA Y SERVICIOS SOCIALES
+870210,87,Q,Servicios de atención a ancianos con alojamiento,Actividades de atención en instituciones,SALUD HUMANA Y SERVICIOS SOCIALES
+870910,87,Q,Servicios de atención a niños y adolescentes carenciados con alojamiento,Actividades de atención en instituciones,SALUD HUMANA Y SERVICIOS SOCIALES
+870100,87,Q,"Servicios de atención a personas con problemas de salud mental o de adicciones, con alojamiento",Actividades de atención en instituciones,SALUD HUMANA Y SERVICIOS SOCIALES
+870920,87,Q,Servicios de atención a mujeres con alojamiento,Actividades de atención en instituciones,SALUD HUMANA Y SERVICIOS SOCIALES
+880000,88,Q,Servicios sociales sin alojamiento,Actividades de atención sin alojamiento,SALUD HUMANA Y SERVICIOS SOCIALES
+900011,90,R,Producción de espectáculos teatrales y musicales,Servicios artísticos y de espectáculos,"SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+900021,90,R,"Composición y representación de obras teatrales, musicales y artísticas (Incluye a compositores, actores, músicos, conferencistas, pintores, artistas plásticos etc.) ",Servicios artísticos y de espectáculos,"SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+900040,90,R,Servicios de agencias de ventas de entradas,Servicios artísticos y de espectáculos,"SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+900091,90,R,"Servicios de espectáculos artísticos n.c.p. (Incluye espectáculos circenses, de títeres, mimos, etc.)",Servicios artísticos y de espectáculos,"SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+900030,90,R,"Servicios conexos a la producción de espectáculos teatrales y musicales  (Incluye diseño y manejo de escenografía, montaje de iluminación y sonido, etc.)",Servicios artísticos y de espectáculos,"SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+910200,91,R,Servicios de museos y preservación de lugares y edificios históricos,"Servicios de bibliotecas, archivos y museos y  servicios culturales n.c.p.","SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+910300,91,R,"Servicios de jardines botánicos, zoológicos y de parques nacionales","Servicios de bibliotecas, archivos y museos y  servicios culturales n.c.p.","SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+910100,91,R,Servicios de bibliotecas y archivos,"Servicios de bibliotecas, archivos y museos y  servicios culturales n.c.p.","SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+910900,91,R,"Servicios culturales n.c.p. (Incluye actividades sociales, culturales, recreativas y de interés local desarrollado por centros vecinales, barriales, sociedades de fomento, clubes no deportivos, etc.)","Servicios de bibliotecas, archivos y museos y  servicios culturales n.c.p.","SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+920009,92,R,Servicios relacionados con juegos de azar y apuestas n.c.p.,Juegos de azar y apuestas,"SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+920001,92,R,"Servicios de recepción de apuestas de quiniela, lotería y similares  ",Juegos de azar y apuestas,"SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+931042,93,R,"Servicios prestados por profesionales y técnicos para la realización de prácticas deportivas (Incluye la actividad realizada por entrenadores, instructores, jueces árbitros, cronometradores, etc.)","Actividades deportivas, recreativas y de entretenimiento","SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+931041,93,R,Servicios prestados por deportistas y atletas para la realización de prácticas deportivas,"Actividades deportivas, recreativas y de entretenimiento","SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+931090,93,R,Servicios para la práctica deportiva n.c.p.,"Actividades deportivas, recreativas y de entretenimiento","SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+931050,93,R,"Servicios de acondicionamiento físico (Incluye gimnasios de musculación, pilates, yoga, personal trainner, etc.)","Actividades deportivas, recreativas y de entretenimiento","SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+931010,93,R,"Servicios de organización, dirección y gestión de prácticas deportivas en clubes (Incluye clubes de fútbol, golf, tiro, boxeo, etc.)","Actividades deportivas, recreativas y de entretenimiento","SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+939020,93,R,"Servicios de salones de juegos (Incluye salones de billar, pool, bowling, juegos electrónicos, etc.) ","Actividades deportivas, recreativas y de entretenimiento","SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+939090,93,R,Servicios de entretenimiento n.c.p.,"Actividades deportivas, recreativas y de entretenimiento","SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+931020,93,R,"Explotación de instalaciones deportivas, excepto clubes","Actividades deportivas, recreativas y de entretenimiento","SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+939010,93,R,Servicios de parques de diversiones y parques temáticos,"Actividades deportivas, recreativas y de entretenimiento","SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+939030,93,R,"Servicios de salones de baile, discotecas y similares","Actividades deportivas, recreativas y de entretenimiento","SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+931030,93,R,Promoción y producción de espectáculos deportivos,"Actividades deportivas, recreativas y de entretenimiento","SERVICIOS  ARTÍSTICOS, CULTURALES, DEPORTIVOS  Y DE ESPARCIMIENTO"
+949200,94,S,Servicios de organizaciones políticas,Servicios de asociaciones,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+949910,94,S,"Servicios de mutuales, excepto mutuales de salud y financieras",Servicios de asociaciones,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+949930,94,S,Servicios de cooperativas cuando realizan varias actividades,Servicios de asociaciones,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+942000,94,S,Servicios de sindicatos,Servicios de asociaciones,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+949990,94,S,Servicios de asociaciones n.c.p.,Servicios de asociaciones,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+941200,94,S,Servicios de organizaciones profesionales,Servicios de asociaciones,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+941100,94,S,Servicios de organizaciones empresariales y de empleadores,Servicios de asociaciones,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+949920,94,S,Servicios de consorcios de edificios,Servicios de asociaciones,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+949100,94,S,Servicios de organizaciones religiosas,Servicios de asociaciones,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+951100,95,S,Reparación y mantenimiento de equipos informáticos,Reparación de computadoras y equipos de uso doméstico,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+952100,95,S,"Reparación de artículos eléctricos y electrónicos de uso doméstico (Incluye  TV, radios, reproductores cd's y dvd's, cámaras de video de uso familiar, heladeras, lavarropas, secarropas, aire acondicionado de menos de 6000 frigorías)",Reparación de computadoras y equipos de uso doméstico,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+952920,95,S,Reparación de relojes y joyas. Relojerías,Reparación de computadoras y equipos de uso doméstico,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+952200,95,S,Reparación de calzado y artículos de marroquinería,Reparación de computadoras y equipos de uso doméstico,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+952910,95,S,"Reforma y reparación de cerraduras, duplicación de llaves. Cerrajerías",Reparación de computadoras y equipos de uso doméstico,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+952300,95,S,Reparación de tapizados y muebles (Incluye la restauración de muebles),Reparación de computadoras y equipos de uso doméstico,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+951200,95,S,Reparación y mantenimiento de equipos de telefonía y de comunicación,Reparación de computadoras y equipos de uso doméstico,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+952990,95,S,"Reparación de efectos personales y enseres domésticos n.c.p. (Incluye la actividad de arreglos de prendas realizadas por modistas), (No incluye la actividad de sastres y modistas que confeccionan prendas: grupo 141)      ",Reparación de computadoras y equipos de uso doméstico,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+960990,96,S,"Servicios personales n.c.p. (Incluye actividades de astrología y espiritismo, las realizadas con fines sociales como agencias matrimoniales, de investigaciones genealógicas, de contratación de acompañantes, la actividad de lustrabotas, acomodadores de autos, etc.)",Otros servicios personales,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+960910,96,S,"Servicios de centros de estética, spa y similares (Incluye baños turcos, saunas, solarios, centros de masajes y adelgazamiento, etc.)",Otros servicios personales,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+960101,96,S,Servicios de limpieza de prendas prestado por tintorerías rápidas,Otros servicios personales,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+960201,96,S,Servicios de peluquería,Otros servicios personales,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+960202,96,S,"Servicios de tratamiento de belleza, excepto los de peluquería",Otros servicios personales,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+960102,96,S,"Lavado y limpieza de artículos de tela, cuero y/o de piel, incluso la limpieza en seco",Otros servicios personales,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+960300,96,S,Pompas fúnebres y servicios conexos,Otros servicios personales,SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES
+970000,97,T,Servicios de hogares privados que contratan servicio doméstico,Actividades de empleo doméstico,SERVICIOS DE HOGARES PRIVADOS QUE CONTRATAN SERVICIO DOMESTICO
+990000,99,U,Servicios de organizaciones y órganos extraterritoriales,Actividades de organismos extraterritoriales,SERVICIOS DE ORGANIZACIONES Y ÓRGANOS EXTRATERRITORIALES
